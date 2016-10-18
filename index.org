@@ -1,4 +1,4 @@
-#+TITLE: Advanved Industrial Organization
+#+TITLE: Advanced Industrial Organization
 
 This is the documentation for the Advanced IO course for the RM in Economics at
 Tilburg University.
