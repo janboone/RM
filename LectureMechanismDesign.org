@@ -254,7 +254,7 @@ y^h &= \phi c^{l}+(1-\phi)c^h+E + \phi w^h(u(c^h)-u(c^l))
   equill = plt.plot(yl, indifl(yl,ul), 'ro')
   plt.setp(equill, 'markersize', 10)
   plt.setp(equill, 'markerfacecolor', 'r')
-  plt.savefig('cpbtaxfigure.png')
+  #plt.savefig('taxfigure1.png')
   plt.close()
 #+end_src
 
@@ -263,7 +263,7 @@ y^h &= \phi c^{l}+(1-\phi)c^h+E + \phi w^h(u(c^h)-u(c^l))
 #+CAPTION: Optimal contracts for l-type and h-type
 #+LABEL:   fig:1
 #+ATTR_LaTeX: width=7.5cm
-[[./cpbtaxfigure.png]]
+[[./taxfigure1.png]]
 
 #+REVEAL: split
 
@@ -356,7 +356,7 @@ y^h &= \phi c^{l}+(1-\phi)c^h+E + \phi w^h(u(c^h)-u(c^l))
                 arrowprops=dict(arrowstyle="->", linewidth = 2,
                                 connectionstyle="arc3,rad=.2"),
                 )
-  plt.savefig('cpbtaxfigure2.png')
+  #plt.savefig('taxfigure2.png')
   plt.close()
 #+end_src
 
@@ -366,7 +366,7 @@ y^h &= \phi c^{l}+(1-\phi)c^h+E + \phi w^h(u(c^h)-u(c^l))
 #+CAPTION: Example of tax function $T(y)$ for implementation
 #+LABEL:   fig:2
 #+ATTR_LaTeX: width=7.5cm
-[[./cpbtaxfigure2.png]]
+[[./taxfigure2.png]]
 
 
 
@@ -516,7 +516,7 @@ x(\theta) =
   plt.ylabel(r"$p$",fontsize = 20,rotation = 0)
   plt.legend(loc=0)
   plt.axvline(x = 0.5, ymin = 0, ymax = 0.5,ls = ':', lw = 2,c = 'black')
-  plt.savefig('cpbtaxfigure3.png')
+  #plt.savefig('figure3.png')
   plt.close()
 #+end_src
 
@@ -529,7 +529,7 @@ x(\theta) =
 #+CAPTION: Demand curve and marginal revenue
 #+LABEL:   fig:3
 #+ATTR_LaTeX: width=7.5cm
-[[./cpbtaxfigure3.png]]
+[[./figure3.png]]
 
 
 
