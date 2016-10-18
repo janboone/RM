@@ -1,0 +1,607 @@
+#+Title: Mechanism Design
+#+Author: Jan Boone
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_POSTAMBLE: <p> Created by jan. </p>
+
+
+
+
+* Introduction
+** What is mechanism design?
+   - We will consider situations where a principal wants an agent to do something
+   - Agent has private information that the principal cannot observe
+   - in optimal tax problem: government cannot observe my productivity
+
+     - in monopoly problem: monopolist cannot observe my valuation of the good
+     - government regulating NS cannot observe costs of operating a railway track
+     - ministry of health trying to limit health care expenditure cannot observe quality of hospitals, severity of patients
+     - government selling telecom licenses cannot observe utility that consumers will enjoy from these or the costs of operating such networks
+
+#+REVEAL: split
+
+   - Agent's private information gives him (bargaining/market) power and he can extract rents from the principal
+   - Principal wants to design a way to get the desired action from the agent at the lowest cost
+   - Instead of focusing on examples (like linear tax scheme, quadratic tax etc.), principal asks the agent directly what his type is
+   - And makes sure that the agent will reveal his type to her truthfully
+   - This is true for any mechanism that you can think of and --in fact-- far easier to analyze
+   - Mechanism design gives you the tools to analyze situations like this
+
+** Why is this useful?
+   - It turns out to be analytically more convenient!
+   - It separates the optimal outcome from the way you would like to implement this outcome
+   - You get the optimal overall solution; not, say, the optimal linear solution
+   - It forces you to think about the things that really matter:
+
+     - what is the principal's objective function?
+     - how can agents deviate (incentive compatibility)
+     - do agents want to participate (individual rationality)
+     - how to trade off efficiency and rent extraction
+
+* Optimal taxation (2 types)
+** Without mechanism design
+   - Consider utility function $u(c)-n$ where $c$ denotes consumption and $n$ work effort
+   - $u'(c)>0$
+   - Decreasing marginal utility $u''(c)<0$
+   - There are two types of workers: low productivity $w^l$ (fraction $\phi$ of the population) and high productivity $w^h>w^l$ ($1-\phi$)
+   - Government cannot observe type $w$ nor effort $n$
+   - Government only observes gross income $y = w n$
+   - At first sight, one would try to find a tax function $T(y)$ to maximize (some) government objective
+
+#+REVEAL: split
+
+   - Worker then solves
+\begin{equation}
+\label{eq:1}
+\max_n u(wn - T(wn)) - n
+\end{equation}
+   - First order condition
+\begin{equation}
+\label{eq:2}
+u'(wn-T(wn))(1-T'(wn))w-1 = 0
+\end{equation}
+   - Second order condition: oops?
+   - That is why we need mechanism design
+
+** With mechanism design
+   - Revelation principle: any mechanism that you can think of, can be described as "ask worker for his type $n$ and then tell the worker to earn $y^n$ and consume $c^n$"
+   - We will create two options $(y^l,c^l),(y^h,c^h)$ such that each type chooses the option that is meant for this type
+   - This we ensure by imposing incentive compatibility constraints:
+\begin{align}
+\label{eq:3} \tag{$IC_l$}
+u(c^l)-y^l/w^l &\geq u(c^h)-y^h/w^l \\
+\label{eq:4} \tag{$IC_h$}
+u(c^h)-y^h/w^h &\geq u(c^l)-y^l/w^h
+\end{align}
+
+#+REVEAL: split
+
+   - Adding these two equations yields:
+\begin{equation*}
+y^h \left(\frac{1}{w^l} - \frac{1}{w^h} \right) \geq y^l \left(\frac{1}{w^l} - \frac{1}{w^h} \right)
+\end{equation*}
+   - Hence in any mechanism we will find that the high type earns higher gross income than the low type
+   - Moreover, high type always has higher utility than low type
+\begin{equation}
+\label{eq:5}
+u^h = u(c^h)-y^h/w^h \geq u(c^l)-y^l/w^h \geq u(c^l)-y^l/w^l = u^l
+\end{equation}
+where the last inequality is strict if $y^l>0$
+
+#+REVEAL: split
+
+   - We guess that (\ref{eq:4}) is binding: high productivity type tends to be "lazy" and wants to mimic low type
+   - We ignore (\ref{eq:3}) and check at the end that indeed it is not violated
+   - Rewrite (\ref{eq:4}) as
+\begin{equation}
+\label{eq:6}
+u(c^h)-n^h = u(c^l)-(y^l/w^l)*(w^l/w^h) = u(c^l) - \omega n^l
+\end{equation}
+with $\omega = w^l/w^h < 1$
+   - Finally, we have the government budget constraint
+\begin{equation}
+\label{eq:7} \tag{GBC}
+\phi c^l +(1-\phi) c^h + E = \phi w^l n^l + (1-\phi)w^h n^h
+\end{equation}
+   - Government needs to raise tax revenue $E$ to finance a public good
+
+#+REVEAL: split
+
+   - We write the government's optimization problem as follows
+
+
+\begin{split}
+  \max_{c^l,c^h,n^l,n^h} & \phi (u(c^l)-n^l) +
+  (1-\phi)(u(c^h)-n^h) \\
+  -&\lambda (\phi c^l +(1-\phi) c^h+E - \phi w^l n^l - (1-\phi)w^h n^h) \\
+  +&\mu (u(c^h)-n^h -u(c^l) + \omega n^l)
+\end{split}
+where $\lambda$ denotes the Lagrange multiplier on (\ref{eq:7}) and
+$\mu$ on (\ref{eq:4})
+
+#+REVEAL: split
+
+   - First order conditions can be written as
+\begin{align}
+  \label{eq:FOCcl}
+  \phi u'(c^l) - \phi \lambda -\mu u'(c^l) & =0 \\
+  \label{eq:FOCnl}
+  -\phi + \phi \lambda w^l +\mu \omega & =0 \\
+  \label{eq:FOCch}
+  (1-\phi) u'(c^h) - (1-\phi) \lambda +\mu u'(c^h) & =0 \\
+  \label{eq:FOCnh}
+  -(1-\phi) + (1-\phi) \lambda w^h -\mu & =0
+\end{align}
+
+#+REVEAL: split
+
+   - Routine to verify that
+\begin{align}
+ \label{eq:ch}
+ u'(c^h) &= \frac{1}{w^h} \\
+  \label{eq:cl}
+ u'(c^l) &= \frac{1}{w^l} \frac{\phi-\omega\mu}{\phi-\mu} > \frac{1}{w^l}
+\end{align}
+
+
+#+REVEAL: split
+
+   - High type faces a marginal tax rate equal to 0 (no distortion at the top)
+   - Low type faces a positive marginal tax rate
+   - Explain that to the SP!
+   - Because $u(c)$ is concave, government would like to redistribute from high to low type
+   - But high type wants to mimic low type
+   - What is best way to raise l-type's utility such that h-type does not want to mimic it?
+   - Reduce $y^l$ below its first best value: positive marginal tax rate
+
+#+REVEAL: split
+
+   - We can solve first order conditions above for $\lambda,\mu$:
+\begin{align}
+\label{eq:8}
+\lambda &= \left( \frac{\phi}{w^l} + \frac{1-\phi}{w^{h}} \right) \\
+\label{eq:9}
+\mu &= \phi(1-\phi) \left(\frac{1}{\omega} -1 \right)
+\end{align}
+   - Marginal cost of public funds, $\lambda$, is weighted average of effort costs $1/w^l,1/w^h$:
+
+     - asking each type to earn one unit more, gives government additional unit of budget and satisfies both IC constraints
+
+   - Shadow price of (\ref{eq:4}) equals 0 if $\omega = 1$: both types are the same; no informational rents; first best can be implemented with lump sum taxes
+
+     - as $\omega$ falls, $\mu$ increases: government would like to redistribute more and (\ref{eq:4}) becomes "more binding"
+
+
+#+REVEAL: split
+
+   - Use (\ref{eq:4}) and (\ref{eq:7}) to solve for $n^l,n^h$ and hence for $y^l,y^h$:
+\begin{align}
+\label{eq:10}
+y^l &= \phi c^{l}+(1-\phi)c^h+E - (1-\phi)w^h(u(c^h)-u(c^l))     \\
+\label{eq:11}
+y^h &= \phi c^{l}+(1-\phi)c^h+E + \phi w^h(u(c^h)-u(c^l))
+\end{align}
+
+
+** Implementation
+   - consider an example with:
+     $w^l = 1, w^h = 2$ and $\omega = 0.5$
+     $\phi = 0.5$
+     $E=1$
+     $u(c) = 2 \sqrt{c}$
+#+begin_src python :session :exports none
+  from numpy import *
+  import matplotlib.pyplot as plt
+  from scipy import optimize
+  import sympy as sp
+  plt.figure()
+  plt.rcParams.update({'axes.labelsize': 20,'text.fontsize': 20, 'legend.fontsize': 20})
+  wl = 1.0
+  wh = 2.0
+  phi = 0.5
+  omega = wl/wh
+  x = sp.Symbol('x')
+  y = 2.0*x**0.5
+  E = 1
+
+  def u(c):
+      return y({x:c})
+
+
+  def uprime(c):
+      uprime = y.diff(x)
+      return uprime({x:c})
+
+  lamda = phi/wl + (1-phi)/wh
+  mu = phi*(1-phi)*(1/omega -1)
+  ch = optimize.brenth(lambda c: uprime(c)-1/wh ,0,5)
+  cl = optimize.brenth(lambda c: uprime(c)-1/wl*(phi-omega*mu)/(phi-mu) ,0,5)
+  yl = phi*cl+(1-phi)*ch+E-(1-phi)*wh*(u(ch)-u(cl))
+  yh = phi*cl+(1-phi)*ch+E+phi*wh*(u(ch)-u(cl))
+  ul = u(cl)-yl/wl
+  uh = u(ch)-yh/wh
+  def indifl(y,u):
+      return (u+y/wl)**2/4.0
+
+  def indifh(y,u):
+      return (u+y/wh)**2/4.0
+
+  vy = linspace(0.0,6.0,200)
+  vyl = linspace(0.0,3.0,200)
+  ui_h = [indifh(y,uh) for y in vy]
+  ui_l = [indifl(y,ul) for y in vyl]
+
+  plt.plot(vy,ui_h,'-', color = 'b', linewidth = 2,label="$u(c)-y/w^h$")
+  plt.plot(vyl,ui_l,'-', color = 'r', linewidth =2,label="$u(c)-y/w^l$")
+  plt.plot(vy,vy,'--', color = 'g', linewidth = 2,label="$c=y$")
+  plt.xlabel(r"$y$",fontsize = 20)
+  plt.ylabel(r"$c$",fontsize = 20,rotation = 0)
+  plt.legend(loc=0)
+
+  equilh = plt.plot(yh, indifh(yh,uh), 'ro')
+  plt.setp(equilh, 'markersize', 10)
+  plt.setp(equilh, 'markerfacecolor', 'b')
+  equill = plt.plot(yl, indifl(yl,ul), 'ro')
+  plt.setp(equill, 'markersize', 10)
+  plt.setp(equill, 'markerfacecolor', 'r')
+  plt.savefig('cpbtaxfigure.png')
+  plt.close()
+#+end_src
+
+#+REVEAL: split
+
+#+CAPTION: Optimal contracts for l-type and h-type
+#+LABEL:   fig:1
+#+ATTR_LaTeX: width=7.5cm
+[[./cpbtaxfigure.png]]
+
+#+REVEAL: split
+
+
+   - l-type works less and consumes less than h-type
+   - h-type is indifferent between l and h contracts
+   - if we would redistribute a bit more to l-type, h-type would mimic
+   - both h-type and l-type pay taxes (contracts lie below the green line)
+   - h-type pays (a lot) more tax than l-type
+   - note that l-type does not want to mimic h-type: (\ref{eq:3}) is satisfied --which we needed to check
+
+#+REVEAL: split
+
+   - tax function $T(y)$ should be such that:
+     $c(y) = y - T(y)$ lies everywhere below the two indifference curves
+     $c^l = y^l - T(y^l)$
+     $c^h = y^h - T(y^h)$
+   - clearly there are a lot of functions $T(y)$ that satisfy these criteria
+   - around $y =6$ black line seems to be paralel to green line: coincidence?
+
+
+
+#+begin_src python :session :exports none
+  from numpy import *
+  import matplotlib.pyplot as plt
+  from scipy import optimize
+  import sympy as sp
+
+  plt.figure()
+  plt.rcParams.update({'axes.labelsize': 20,'text.fontsize': 20, 'legend.fontsize': 20})
+  wl = 1.0
+  wh = 2.0
+  phi = 0.5
+  omega = wl/wh
+  x = sp.Symbol('x')
+  y = 2.0*x**0.5
+  E = 1
+
+  def u(c):
+      return y({x:c})
+
+
+  def uprime(c):
+      uprime = y.diff(x)
+      return uprime({x:c})
+
+  lamda = phi/wl + (1-phi)/wh
+  mu = phi*(1-phi)*(1/omega -1)
+  ch = optimize.brenth(lambda c: uprime(c)-1/wh ,0,5)
+  cl = optimize.brenth(lambda c: uprime(c)-1/wl*(phi-omega*mu)/(phi-mu) ,0,5)
+  yl = phi*cl+(1-phi)*ch+E-(1-phi)*wh*(u(ch)-u(cl))
+  yh = phi*cl+(1-phi)*ch+E+phi*wh*(u(ch)-u(cl))
+  ul = u(cl)-yl/wl
+  uh = u(ch)-yh/wh
+  def indifl(y,u):
+      return (u+y/wl)**2/4.0
+
+  def indifh(y,u):
+      return (u+y/wh)**2/4.0
+
+  vy = linspace(0.0,6.0,200)
+  vyl = linspace(0.0,3.0,200)
+  ui_h = [indifh(y,uh) for y in vy]
+  ui_l = [indifl(y,ul) for y in vyl]
+
+  plt.plot(vy,ui_h,'-', color = 'b', linewidth = 2,label="$u(c)-y/w^h$")
+  plt.plot(vyl,ui_l,'-', color = 'r', linewidth =2,label="$u(c)-y/w^l$")
+  plt.plot(vy,vy,'--', color = 'g', linewidth = 2,label="$c=y$")
+  plt.xlabel(r"$y$",fontsize = 20)
+  plt.ylabel(r"$c$",fontsize = 20,rotation = 0)
+  plt.legend(loc=0)
+
+  equilh = plt.plot(yh, indifh(yh,uh), 'ro')
+  plt.setp(equilh, 'markersize', 10)
+  plt.setp(equilh, 'markerfacecolor', 'b')
+  equill = plt.plot(yl, indifl(yl,ul), 'ro')
+  plt.setp(equill, 'markersize', 10)
+  plt.setp(equill, 'markerfacecolor', 'r')
+
+  vy1 = linspace(0.0,yl,200)
+  plt.plot(vy1,[cl/yl*y for y in vy1],'-', color = 'black', linewidth = 2)
+  vy3 = linspace(3.0,yh,200)
+  plt.plot(vy3,[ch+0.5*(uh+yh/wh)/wh*(y-yh) for y in vy3],'-', color = 'black', linewidth = 2)
+  cT = ch+0.5*(uh+yh/wh)/wh*(3.0-yh)
+  vy2 = linspace(yl,3.0,200)
+  plt.plot(vy2,[cT+(cT-cl)/(3.0-yl)*(y-3.0) for y in vy2],'-', color = 'black', linewidth = 2)
+
+  plt.annotate('$c(y) = y - T(y)$', xy=(3.0,cT),  xycoords='data',
+                xytext=(20, -50), textcoords='offset points', size = 20,
+                arrowprops=dict(arrowstyle="->", linewidth = 2,
+                                connectionstyle="arc3,rad=.2"),
+                )
+  plt.savefig('cpbtaxfigure2.png')
+  plt.close()
+#+end_src
+
+
+#+REVEAL: split
+
+#+CAPTION: Example of tax function $T(y)$ for implementation
+#+LABEL:   fig:2
+#+ATTR_LaTeX: width=7.5cm
+[[./cpbtaxfigure2.png]]
+
+
+
+** What have we learned?
+   - Writing down an optimal taxation problem directly with a tax function $T(y)$ is problematic
+   - Analytically, it is more convenient to write down the options for each type directly and make sure that each type chooses "his own" option by imposing IC constraints
+
+#+REVEAL: split
+
+   - With optimal taxation we find that:
+
+     - high productivity type pays high tax (high average tax rate)
+     - but this does not imply that high type faces a (high) positive marginal tax rate
+     - in fact, marginal tax rate for high type equals 0
+     - no distortion at the top
+     - low type faces a positive marginal tax rate
+     - because high type wants to mimic low type, government needs to distort labor supply of low type (to make mimicking less attractive)
+     - labor supply is reduced with a positive marginal tax rate
+     - as high type works a lot, low type does not want to mimic high type
+
+* Monopolist (continuum of types)
+
+** Differences with optimal taxation
+   - Instead of considering two types, we now consider a continuum of types
+   - As people could not immigrate in the tax example, we only considered IC constraints
+   - when buying from a monopolist, one can decide not to buy at all: we need IR constraints
+** Model
+   - Monopolist can sell indivisible good to one consumer
+   - Cost of production equals 0 for monopolist
+   - If consumer buys the good from monopolist at price $p$, his utility equals $u(\theta) = \theta -p$ where $\theta$ is distributed on $[0,1]$ with density [distribution] function $f(\theta)[F(\theta)]$
+   - Below we focus on a uniform distribution: $f(\theta)=1,F(\theta) = \theta$
+   - Monopolist cannot observe $\theta$: this is private information for the consumer
+   - Revelation principle: monopolist asks consumer for his type $\theta$
+   - Given the consumer's message $\hat \theta$, he has to pay $t(\hat \theta)$ and receives the good with probability $x(\hat \theta)$
+
+#+REVEAL: split
+
+   - Consumer and monopolist are risk neutral: it does not matter whether the price is always paid ($t$) or only conditional on actually giving the good to the consumer ($p=t/x$)
+   - Monopolist needs to choose $x(.),t(.)$ in such a way that
+
+     - IC: consumer is willing to truthfully reveal $\theta$
+     - IR: consumer is willing to participate
+
+   - Monopolist maximizes expected revenue
+\begin{equation}
+\label{eq:12}
+\int_0^1 t(\theta)f(\theta) d\theta
+\end{equation}
+
+** Consumer's optimization problem
+   - Consumer chooses message $\hat \theta$ to solve
+\begin{equation}
+\label{eq:13}
+u(\theta) = \max_{\hat \theta} \{x(\hat \theta) \theta - t(\hat
+\theta) \}
+\end{equation}
+   - Instead of looking at the first order condition for this problem, we use the envelope theorem:
+\begin{equation}
+\label{eq:14}
+u'(\theta) = x(\theta)
+\end{equation}
+
+#+REVEAL: split
+
+   - Since $x(.)$ denotes a probability, we find that $u'(\theta) \geq 0$
+   - Hence the IR constraint $u(\theta) \geq 0$ for all $\theta \in [0,1]$ can be replaced by
+\begin{equation}
+\label{eq:15} \tag{$IR$}
+u(0) = 0
+\end{equation}
+as there is no reason for the monopolist to "give away presents"
+   - Consequently, we can write
+\begin{equation}
+\label{eq:16}
+u(\theta) = \int_0^{\theta} u'(\tau) d\tau = \int_0^{\theta} x(\tau) d\tau
+\end{equation}
+
+** Monopolist's optimization problem
+   - Since $t(\theta) = x(\theta)\theta - u(\theta)$, we can write the monopolist's optimization problem as
+\begin{equation}
+\label{eq:17}
+\max_{x(.)} \int_0^1 (x(\theta)\theta - u(\theta)) f(\theta) d\theta =
+\int_0^1 \left(x(\theta)\theta - \int_0^{\theta} x(\tau)d\tau    \right) f(\theta) d(\theta)
+\end{equation}
+
+#+REVEAL: split
+
+   - Using partial integration, we can write this as
+\begin{equation}
+\label{eq:18}
+\max_{x(.) \in [0,1]} \int_0^1 x(\theta) \left(\underset{MR(\theta)}{\underbrace{\theta - \frac{1-F(\theta)}{f(\theta)} }} \right) f(\theta)d\theta
+\end{equation}
+
+
+#+REVEAL: split
+
+   - By increasing $x(\theta)$, social surplus increases by $\theta f(\theta)$
+   - However, increasing $x(\theta)$ makes it more attractive for types $\theta'>\theta$ to mimic $\theta$
+   - To stop them from doing that, the monopolist needs to give them an informational rent: there are $1-F(\theta)$ of these types above $\theta$
+   - This term is called marginal revenue (for reasons that become clear shortly)
+
+#+REVEAL: split
+
+   - As the monopolist's problem is linear in $x(.)$, the solution is quite simple:
+\begin{equation}
+\label{eq:19}
+x(\theta) =
+\begin{cases}
+1 & \text{if } MR(\theta) \geq 0 \\
+0 & \text{otherwise}
+\end{cases}
+\end{equation}
+
+#+REVEAL: split
+
+   - With a uniform distribution we have $MR(\theta) = 2\theta -1$
+   - Hence the monopolist only sells to types with $\theta \geq \frac{1}{2}$
+   - Why does the monopolist not sell to everyone with valuation $\theta$ above production costs 0?
+
+** Marginal Revenue
+   - To see where the term MR comes from in this context, we write $q(\theta) = 1-\theta$
+   - In a standard demand context, the people with a high value of the good are on the left hand side, while above they are on the right hand side of the interval $[0,1]$
+   - Hence we "inverse things" with $1-\theta$
+   - Also if you set a price $p$, how many people would buy?
+   - Consumers with $\theta \geq p$ would buy and there are $q = 1-p$ of such consumers
+   - The demand curve (consumer valuation) can now be written as $1-q(\theta)$
+   - Finally, $MR(\theta) = [1-(1-\theta)] - \frac{1-\theta}{1} = 1 - 2q(\theta)$
+
+#+begin_src python :session :exports none
+  from numpy import *
+  import matplotlib.pyplot as plt
+  from scipy import optimize
+  import sympy as sp
+  plt.figure()
+  plt.rcParams.update({'axes.labelsize': 20,'text.fontsize': 20, 'legend.fontsize': 20})
+  vy = linspace(0.0,1.0,200)
+  vyl = linspace(0.0,0.5,200)
+  vy2 = linspace(0.0,0.5,200)
+  demand = [1-q for q in vy]
+  MR = [1-2*q for q in vyl]
+  price = [0.5 for q in vy2]
+
+  plt.plot(vy,demand,'-', color = 'b', linewidth = 2,label="$p = 1-q(\\theta)$")
+  plt.plot(vyl,MR,'--', color = 'b', linewidth =2,label="$MR = 1-2q(\\theta)$")
+  plt.plot(vy2,price,':', color = 'black', linewidth =2)
+  plt.xlabel(r"$q(\theta) = 1-\theta$",fontsize = 20)
+  plt.ylabel(r"$p$",fontsize = 20,rotation = 0)
+  plt.legend(loc=0)
+  plt.axvline(x = 0.5, ymin = 0, ymax = 0.5,ls = ':', lw = 2,c = 'black')
+  plt.savefig('cpbtaxfigure3.png')
+  plt.close()
+#+end_src
+
+#+RESULTS:
+: Line2D(_line3)
+
+
+#+REVEAL: split
+
+#+CAPTION: Demand curve and marginal revenue
+#+LABEL:   fig:3
+#+ATTR_LaTeX: width=7.5cm
+[[./cpbtaxfigure3.png]]
+
+
+
+** Global optimum for consumer?
+   - The envelop theorem is a local argument, is it clear that the optimum supposed to be chosen ($\hat \theta = \theta$) by the consumer is a global optimum?
+   - What does the consumer optimization problem actually look like?
+   - To see this, first note that
+\begin{equation}
+\label{eq:20}
+u(\theta) = \int_0^{\theta} u'(\tau) d\tau = \int_0^{\theta}
+x(\tau)d\tau = \theta - 0.5
+\end{equation}
+
+#+REVEAL: split
+
+   - Hence, we see that
+\begin{equation}
+\label{eq:21}
+\theta-0.5 = \max_{\hat \theta} \{ x(\hat \theta) \theta - t(\hat \theta) \}
+\end{equation}
+   - Clearly, people with $\theta < 0.5$ will not participate: they do not buy ($x(\theta)=0$) and they do not pay ($t(\theta)=0$)
+   - For people with $\theta \geq 0.5$, we see that $x(\theta) =1$ and $t(\theta)=0.5$
+   - Hence we can write the consumer's maximization problem as
+\begin{equation}
+\label{eq:22}
+\max_{\hat \theta} \{ x(\hat \theta) \theta - t(\hat \theta) \} = \max\{0,\theta-0.5\}
+\end{equation}
+
+#+REVEAL: split
+
+   - Either the consumer buys at a price equal to 0.5 or he does not buy at all
+   - Consumer only needs to reveal whether $\theta$ is above 0.5 (or not)
+   - Put differently, the monopolist offers a menu with two options for $(x,t)$: $\{(0,0),(1,0.5)\}$ and consumer chooses the best option from these two
+   - Truthful revelation of type is indeed a global optimum
+   - More generally, the reason why we can move from local to global here is the fact that $x(\theta)$ is non-decreasing in $\theta$
+
+** What have we learned?
+   - Mechanism design can also be applied when there is a continuum of types
+
+     - in fact, this is often easier than the two type case
+
+#+REVEAL: split
+
+   - A monopolist who faces a consumer without knowing the consumer's valuation for the good should do the following:
+
+     - make a take-it-or-leave-it offer to the consumer
+     - consumer then decides whether to accept or reject
+     - this leads to social inefficiency (deadweight loss)
+     - to reduce informational rents of high types, monopolist does not sell to consumers who value the good more than the cost of production
+     - only consumers with a marginal revenue above the production cost can buy the good
+     - if marginal revenue is non-decreasing in type, we do not need to worry about the second order condition of the consumer optimization problem
+
+* Conclusion
+** Who needs mechanism design?
+   - If you want to analyze what the optimal policy is by, say, the government; instead of just analyzing the effects a specific policy (say a change in a linear tax rate), you need mechanism design
+   - Why should taxes be linear (only)?
+   - If you want to analyze a general tax function $T(y)$, and you use a "standard approach", the worker's optimization problem may not be well defined
+   - Hard to check whether the local optimum for the worker is a global optimum
+
+#+REVEAL: split
+
+   - Mechanism design forces you to think carefully about:
+     - objective function for the planner
+     - ways in which agents can deviate (incentive compatibility)
+     - whether agents want to participate (individual rationality) and what their outside options are (may differ with type: easier to emigrate for high than low productivity type)
+   - Mechanism design shows things generally:
+     - high type (in the examples above) is always better off than low type, no matter what the mechanism is (i.e. this is also true for mechanisms that are not optimal)
+     - high type can always mimic low type and then he is still better off
+     - if you would focus on linear tax functions, you would not see that marginal tax rate for highest type should be zero
+
+#+REVEAL: split
+
+   - Important lesson from mechanism design: think in terms of informational rents
+     - make mechanism as efficient as possible (the bigger the total pie, the more rents you can extract)
+     - but make sure you do not leave too much rents to high types (who can mimic low types)
