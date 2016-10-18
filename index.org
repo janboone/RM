@@ -3,6 +3,12 @@
 This is the documentation for the Advanced IO course for the RM in Economics at
 Tilburg University.
 
-* Material
+  - [[https://janboone.github.io/RM/AdvancedIndustrialOrganization.pdf][slides lectures on contracting]]
+  - [[http://janboone.github.io/RM/LectureMechanismDesign.html][lecture on Mechanism Design]]
 
-  - [[
+     - on some browsers, you need to give permission --to lower security
+       status-- to get the math rendering in Mathjax
+
+  - [[https://janboone.github.io/RM/GradeRequirementTheoreticalIO.pdf][grade requirement]]
+  - [[https://janboone.github.io/RM/LearningGoals.pdf][learning goals]]
+  - [[http://appliedeconomictheorytilburg.weebly.com/reading-group.html#][website reading group]]
