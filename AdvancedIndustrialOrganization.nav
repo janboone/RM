@@ -17,594 +17,596 @@
 \headcommand {\beamer@framepages {7}{8}}
 \headcommand {\slideentry {0}{0}{4}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\partentry {Motivating examples}{1}}
-\headcommand {\beamer@partpages {1}{9}}
-\headcommand {\beamer@sectionpages {1}{9}}
-\headcommand {\beamer@subsectionpages {1}{9}}
-\headcommand {\slideentry {0}{0}{5}{10/10}{}{1}}
+\headcommand {\slideentry {0}{0}{5}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\sectionentry {1}{Efficient bargaining}{11}{Efficient bargaining}{1}}
-\headcommand {\beamer@sectionpages {10}{10}}
-\headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\slideentry {1}{0}{1}{11/11}{}{1}}
+\headcommand {\partentry {Motivating examples}{1}}
+\headcommand {\beamer@partpages {1}{10}}
+\headcommand {\beamer@sectionpages {1}{10}}
+\headcommand {\beamer@subsectionpages {1}{10}}
+\headcommand {\slideentry {0}{0}{6}{11/11}{}{1}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\sectionentry {2}{Standard inefficiencies}{12}{Standard inefficiencies}{1}}
+\headcommand {\sectionentry {1}{Efficient bargaining}{12}{Efficient bargaining}{1}}
 \headcommand {\beamer@sectionpages {11}{11}}
 \headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\slideentry {2}{0}{1}{12/12}{}{1}}
+\headcommand {\slideentry {1}{0}{1}{12/12}{}{1}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {2}{0}{1}{12/13}{}{1}}
-\headcommand {\beamer@framepages {12}{13}}
-\headcommand {\slideentry {2}{0}{1}{12/14}{}{1}}
-\headcommand {\beamer@framepages {12}{14}}
-\headcommand {\slideentry {2}{0}{1}{12/15}{}{1}}
-\headcommand {\beamer@framepages {12}{15}}
-\headcommand {\sectionentry {3}{Contracting externalities}{16}{Contracting externalities}{1}}
-\headcommand {\beamer@sectionpages {12}{15}}
-\headcommand {\beamer@subsectionpages {12}{15}}
-\headcommand {\slideentry {3}{0}{1}{16/16}{}{1}}
-\headcommand {\beamer@framepages {16}{16}}
-\headcommand {\slideentry {3}{0}{2}{17/17}{}{1}}
+\headcommand {\sectionentry {2}{Standard inefficiencies}{13}{Standard inefficiencies}{1}}
+\headcommand {\beamer@sectionpages {12}{12}}
+\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\slideentry {2}{0}{1}{13/13}{}{1}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{0}{1}{13/14}{}{1}}
+\headcommand {\beamer@framepages {13}{14}}
+\headcommand {\slideentry {2}{0}{1}{13/15}{}{1}}
+\headcommand {\beamer@framepages {13}{15}}
+\headcommand {\slideentry {2}{0}{1}{13/16}{}{1}}
+\headcommand {\beamer@framepages {13}{16}}
+\headcommand {\sectionentry {3}{Contracting externalities}{17}{Contracting externalities}{1}}
+\headcommand {\beamer@sectionpages {13}{16}}
+\headcommand {\beamer@subsectionpages {13}{16}}
+\headcommand {\slideentry {3}{0}{1}{17/17}{}{1}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\sectionentry {4}{First examples}{18}{First examples}{1}}
-\headcommand {\beamer@sectionpages {16}{17}}
-\headcommand {\beamer@subsectionpages {16}{17}}
-\headcommand {\beamer@subsectionentry {1}{4}{1}{18}{Chicago school}}\headcommand {\beamer@subsectionpages {18}{17}}
-\headcommand {\slideentry {4}{1}{1}{18/18}{Chicago school}{1}}
+\headcommand {\slideentry {3}{0}{2}{18/18}{}{1}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {4}{1}{1}{18/19}{Chicago school}{1}}
-\headcommand {\beamer@framepages {18}{19}}
-\headcommand {\slideentry {4}{1}{1}{18/20}{Chicago school}{1}}
-\headcommand {\beamer@framepages {18}{20}}
-\headcommand {\slideentry {4}{1}{2}{21/21}{Chicago school}{1}}
-\headcommand {\beamer@framepages {21}{21}}
-\headcommand {\slideentry {4}{1}{3}{22/22}{Chicago school}{1}}
+\headcommand {\sectionentry {4}{First examples}{19}{First examples}{1}}
+\headcommand {\beamer@sectionpages {17}{18}}
+\headcommand {\beamer@subsectionpages {17}{18}}
+\headcommand {\beamer@subsectionentry {1}{4}{1}{19}{Chicago school}}\headcommand {\beamer@subsectionpages {19}{18}}
+\headcommand {\slideentry {4}{1}{1}{19/19}{Chicago school}{1}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {4}{1}{1}{19/20}{Chicago school}{1}}
+\headcommand {\beamer@framepages {19}{20}}
+\headcommand {\slideentry {4}{1}{1}{19/21}{Chicago school}{1}}
+\headcommand {\beamer@framepages {19}{21}}
+\headcommand {\slideentry {4}{1}{2}{22/22}{Chicago school}{1}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@subsectionentry {1}{4}{2}{23}{Aghion and Bolton (1987)}}\headcommand {\beamer@subsectionpages {18}{22}}
-\headcommand {\slideentry {4}{2}{1}{23/23}{Aghion and Bolton (1987)}{1}}
+\headcommand {\slideentry {4}{1}{3}{23/23}{Chicago school}{1}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\slideentry {4}{2}{1}{23/24}{Aghion and Bolton (1987)}{1}}
-\headcommand {\beamer@framepages {23}{24}}
-\headcommand {\beamer@subsectionentry {1}{4}{3}{25}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}}\headcommand {\beamer@subsectionpages {23}{24}}
-\headcommand {\slideentry {4}{3}{1}{25/25}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
-\headcommand {\beamer@framepages {25}{25}}
-\headcommand {\slideentry {4}{3}{1}{25/26}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
-\headcommand {\beamer@framepages {25}{26}}
-\headcommand {\slideentry {4}{3}{1}{25/27}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
-\headcommand {\beamer@framepages {25}{27}}
-\headcommand {\slideentry {4}{3}{1}{25/28}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
-\headcommand {\beamer@framepages {25}{28}}
-\headcommand {\slideentry {4}{3}{1}{25/29}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
-\headcommand {\beamer@framepages {25}{29}}
-\headcommand {\slideentry {4}{3}{1}{25/30}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
-\headcommand {\beamer@framepages {25}{30}}
-\headcommand {\slideentry {4}{3}{1}{25/31}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
-\headcommand {\beamer@framepages {25}{31}}
-\headcommand {\beamer@subsectionentry {1}{4}{4}{32}{Hart and Tirole (1990)}}\headcommand {\beamer@subsectionpages {25}{31}}
-\headcommand {\slideentry {4}{4}{1}{32/32}{Hart and Tirole (1990)}{1}}
-\headcommand {\beamer@framepages {32}{32}}
-\headcommand {\slideentry {4}{4}{1}{32/33}{Hart and Tirole (1990)}{1}}
-\headcommand {\beamer@framepages {32}{33}}
-\headcommand {\slideentry {4}{4}{2}{34/34}{Hart and Tirole (1990)}{1}}
-\headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {4}{4}{3}{35/35}{Hart and Tirole (1990)}{1}}
+\headcommand {\beamer@subsectionentry {1}{4}{2}{24}{Aghion and Bolton (1987)}}\headcommand {\beamer@subsectionpages {19}{23}}
+\headcommand {\slideentry {4}{2}{1}{24/24}{Aghion and Bolton (1987)}{1}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {4}{2}{1}{24/25}{Aghion and Bolton (1987)}{1}}
+\headcommand {\beamer@framepages {24}{25}}
+\headcommand {\beamer@subsectionentry {1}{4}{3}{26}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}}\headcommand {\beamer@subsectionpages {24}{25}}
+\headcommand {\slideentry {4}{3}{1}{26/26}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {4}{3}{1}{26/27}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
+\headcommand {\beamer@framepages {26}{27}}
+\headcommand {\slideentry {4}{3}{1}{26/28}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
+\headcommand {\beamer@framepages {26}{28}}
+\headcommand {\slideentry {4}{3}{1}{26/29}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
+\headcommand {\beamer@framepages {26}{29}}
+\headcommand {\slideentry {4}{3}{1}{26/30}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
+\headcommand {\beamer@framepages {26}{30}}
+\headcommand {\slideentry {4}{3}{1}{26/31}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
+\headcommand {\beamer@framepages {26}{31}}
+\headcommand {\slideentry {4}{3}{1}{26/32}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{1}}
+\headcommand {\beamer@framepages {26}{32}}
+\headcommand {\beamer@subsectionentry {1}{4}{4}{33}{Hart and Tirole (1990)}}\headcommand {\beamer@subsectionpages {26}{32}}
+\headcommand {\slideentry {4}{4}{1}{33/33}{Hart and Tirole (1990)}{1}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {4}{4}{1}{33/34}{Hart and Tirole (1990)}{1}}
+\headcommand {\beamer@framepages {33}{34}}
+\headcommand {\slideentry {4}{4}{2}{35/35}{Hart and Tirole (1990)}{1}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {4}{4}{3}{35/36}{Hart and Tirole (1990)}{1}}
-\headcommand {\beamer@framepages {35}{36}}
-\headcommand {\beamer@subsectionentry {1}{4}{5}{37}{Menu auctions}}\headcommand {\beamer@subsectionpages {32}{36}}
-\headcommand {\slideentry {4}{5}{1}{37/37}{Menu auctions}{1}}
-\headcommand {\beamer@framepages {37}{37}}
-\headcommand {\slideentry {4}{5}{1}{37/38}{Menu auctions}{1}}
-\headcommand {\beamer@framepages {37}{38}}
-\headcommand {\slideentry {4}{5}{1}{37/39}{Menu auctions}{1}}
-\headcommand {\beamer@framepages {37}{39}}
-\headcommand {\slideentry {4}{5}{1}{37/40}{Menu auctions}{1}}
-\headcommand {\beamer@framepages {37}{40}}
-\headcommand {\slideentry {4}{5}{1}{37/41}{Menu auctions}{1}}
-\headcommand {\beamer@framepages {37}{41}}
-\headcommand {\sectionentry {5}{Concepts}{42}{Concepts}{1}}
-\headcommand {\beamer@sectionpages {18}{41}}
-\headcommand {\beamer@subsectionpages {37}{41}}
-\headcommand {\slideentry {5}{0}{1}{42/42}{}{1}}
-\headcommand {\beamer@framepages {42}{42}}
-\headcommand {\slideentry {5}{0}{1}{42/43}{}{1}}
-\headcommand {\beamer@framepages {42}{43}}
+\headcommand {\slideentry {4}{4}{3}{36/36}{Hart and Tirole (1990)}{1}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {4}{4}{3}{36/37}{Hart and Tirole (1990)}{1}}
+\headcommand {\beamer@framepages {36}{37}}
+\headcommand {\beamer@subsectionentry {1}{4}{5}{38}{Menu auctions}}\headcommand {\beamer@subsectionpages {33}{37}}
+\headcommand {\slideentry {4}{5}{1}{38/38}{Menu auctions}{1}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {4}{5}{1}{38/39}{Menu auctions}{1}}
+\headcommand {\beamer@framepages {38}{39}}
+\headcommand {\slideentry {4}{5}{1}{38/40}{Menu auctions}{1}}
+\headcommand {\beamer@framepages {38}{40}}
+\headcommand {\slideentry {4}{5}{1}{38/41}{Menu auctions}{1}}
+\headcommand {\beamer@framepages {38}{41}}
+\headcommand {\slideentry {4}{5}{1}{38/42}{Menu auctions}{1}}
+\headcommand {\beamer@framepages {38}{42}}
+\headcommand {\sectionentry {5}{Concepts}{43}{Concepts}{1}}
+\headcommand {\beamer@sectionpages {19}{42}}
+\headcommand {\beamer@subsectionpages {38}{42}}
+\headcommand {\slideentry {5}{0}{1}{43/43}{}{1}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {5}{0}{1}{43/44}{}{1}}
+\headcommand {\beamer@framepages {43}{44}}
 \headcommand {\partentry {More IO examples}{2}}
-\headcommand {\beamer@partpages {10}{43}}
-\headcommand {\beamer@sectionpages {42}{43}}
-\headcommand {\beamer@subsectionpages {42}{43}}
-\headcommand {\slideentry {5}{0}{2}{44/44}{}{2}}
-\headcommand {\beamer@framepages {44}{44}}
-\headcommand {\sectionentry {6}{How to license intangible property}{45}{How to license intangible property}{2}}
-\headcommand {\beamer@sectionpages {44}{44}}
-\headcommand {\beamer@subsectionpages {44}{44}}
-\headcommand {\slideentry {6}{0}{1}{45/45}{}{2}}
+\headcommand {\beamer@partpages {11}{44}}
+\headcommand {\beamer@sectionpages {43}{44}}
+\headcommand {\beamer@subsectionpages {43}{44}}
+\headcommand {\slideentry {5}{0}{2}{45/45}{}{2}}
 \headcommand {\beamer@framepages {45}{45}}
-\headcommand {\slideentry {6}{0}{1}{45/46}{}{2}}
-\headcommand {\beamer@framepages {45}{46}}
-\headcommand {\slideentry {6}{0}{2}{47/47}{}{2}}
-\headcommand {\beamer@framepages {47}{47}}
-\headcommand {\slideentry {6}{0}{2}{47/48}{}{2}}
-\headcommand {\beamer@framepages {47}{48}}
-\headcommand {\slideentry {6}{0}{3}{49/49}{}{2}}
-\headcommand {\beamer@framepages {49}{49}}
-\headcommand {\slideentry {6}{0}{3}{49/50}{}{2}}
-\headcommand {\beamer@framepages {49}{50}}
-\headcommand {\slideentry {6}{0}{3}{49/51}{}{2}}
-\headcommand {\beamer@framepages {49}{51}}
-\headcommand {\slideentry {6}{0}{3}{49/52}{}{2}}
-\headcommand {\beamer@framepages {49}{52}}
-\headcommand {\slideentry {6}{0}{4}{53/53}{}{2}}
-\headcommand {\beamer@framepages {53}{53}}
-\headcommand {\slideentry {6}{0}{4}{53/54}{}{2}}
-\headcommand {\beamer@framepages {53}{54}}
-\headcommand {\slideentry {6}{0}{5}{55/55}{}{2}}
-\headcommand {\beamer@framepages {55}{55}}
-\headcommand {\slideentry {6}{0}{5}{55/56}{}{2}}
-\headcommand {\beamer@framepages {55}{56}}
-\headcommand {\slideentry {6}{0}{6}{57/57}{}{2}}
-\headcommand {\beamer@framepages {57}{57}}
-\headcommand {\slideentry {6}{0}{6}{57/58}{}{2}}
-\headcommand {\beamer@framepages {57}{58}}
-\headcommand {\slideentry {6}{0}{6}{57/59}{}{2}}
-\headcommand {\beamer@framepages {57}{59}}
-\headcommand {\slideentry {6}{0}{7}{60/60}{}{2}}
-\headcommand {\beamer@framepages {60}{60}}
-\headcommand {\slideentry {6}{0}{7}{60/61}{}{2}}
-\headcommand {\beamer@framepages {60}{61}}
-\headcommand {\sectionentry {7}{How (not) to sell nuclear weapons}{62}{How (not) to sell nuclear weapons}{2}}
-\headcommand {\beamer@sectionpages {45}{61}}
-\headcommand {\beamer@subsectionpages {45}{61}}
-\headcommand {\slideentry {7}{0}{1}{62/62}{}{2}}
-\headcommand {\beamer@framepages {62}{62}}
-\headcommand {\slideentry {7}{0}{1}{62/63}{}{2}}
-\headcommand {\beamer@framepages {62}{63}}
-\headcommand {\slideentry {7}{0}{1}{62/64}{}{2}}
-\headcommand {\beamer@framepages {62}{64}}
-\headcommand {\slideentry {7}{0}{1}{62/65}{}{2}}
-\headcommand {\beamer@framepages {62}{65}}
-\headcommand {\slideentry {7}{0}{1}{62/66}{}{2}}
-\headcommand {\beamer@framepages {62}{66}}
-\headcommand {\slideentry {7}{0}{1}{62/67}{}{2}}
-\headcommand {\beamer@framepages {62}{67}}
-\headcommand {\sectionentry {8}{Incentives and discrimination}{68}{Incentives and discrimination}{2}}
-\headcommand {\beamer@sectionpages {62}{67}}
-\headcommand {\beamer@subsectionpages {62}{67}}
-\headcommand {\slideentry {8}{0}{1}{68/68}{}{2}}
-\headcommand {\beamer@framepages {68}{68}}
-\headcommand {\slideentry {8}{0}{1}{68/69}{}{2}}
-\headcommand {\beamer@framepages {68}{69}}
-\headcommand {\slideentry {8}{0}{1}{68/70}{}{2}}
-\headcommand {\beamer@framepages {68}{70}}
-\headcommand {\slideentry {8}{0}{1}{68/71}{}{2}}
-\headcommand {\beamer@framepages {68}{71}}
-\headcommand {\slideentry {8}{0}{1}{68/72}{}{2}}
-\headcommand {\beamer@framepages {68}{72}}
-\headcommand {\sectionentry {9}{Takeover bids, the free rider problem, and the theory of the corporation}{73}{Takeover bids, the free rider problem, and the theory of the corporation}{2}}
-\headcommand {\beamer@sectionpages {68}{72}}
-\headcommand {\beamer@subsectionpages {68}{72}}
-\headcommand {\slideentry {9}{0}{1}{73/73}{}{2}}
-\headcommand {\beamer@framepages {73}{73}}
-\headcommand {\slideentry {9}{0}{1}{73/74}{}{2}}
-\headcommand {\beamer@framepages {73}{74}}
-\headcommand {\slideentry {9}{0}{1}{73/75}{}{2}}
-\headcommand {\beamer@framepages {73}{75}}
-\headcommand {\slideentry {9}{0}{1}{73/76}{}{2}}
-\headcommand {\beamer@framepages {73}{76}}
-\headcommand {\sectionentry {10}{Technology adoption in the presence of network externalities}{77}{Technology adoption in the presence of network externalities}{2}}
-\headcommand {\beamer@sectionpages {73}{76}}
-\headcommand {\beamer@subsectionpages {73}{76}}
-\headcommand {\slideentry {10}{0}{1}{77/77}{}{2}}
-\headcommand {\beamer@framepages {77}{77}}
-\headcommand {\slideentry {10}{0}{1}{77/78}{}{2}}
-\headcommand {\beamer@framepages {77}{78}}
-\headcommand {\slideentry {10}{0}{1}{77/79}{}{2}}
-\headcommand {\beamer@framepages {77}{79}}
-\headcommand {\slideentry {10}{0}{1}{77/80}{}{2}}
-\headcommand {\beamer@framepages {77}{80}}
-\headcommand {\slideentry {10}{0}{1}{77/81}{}{2}}
-\headcommand {\beamer@framepages {77}{81}}
-\headcommand {\sectionentry {11}{Competition and incentives with nonexclusive contracts}{82}{Competition and incentives with nonexclusive contracts}{2}}
-\headcommand {\beamer@sectionpages {77}{81}}
-\headcommand {\beamer@subsectionpages {77}{81}}
-\headcommand {\slideentry {11}{0}{1}{82/82}{}{2}}
-\headcommand {\beamer@framepages {82}{82}}
-\headcommand {\slideentry {11}{0}{1}{82/83}{}{2}}
-\headcommand {\beamer@framepages {82}{83}}
-\headcommand {\slideentry {11}{0}{2}{84/84}{}{2}}
-\headcommand {\beamer@framepages {84}{84}}
-\headcommand {\slideentry {11}{0}{2}{84/85}{}{2}}
-\headcommand {\beamer@framepages {84}{85}}
-\headcommand {\slideentry {11}{0}{2}{84/86}{}{2}}
-\headcommand {\beamer@framepages {84}{86}}
-\headcommand {\slideentry {11}{0}{3}{87/87}{}{2}}
-\headcommand {\beamer@framepages {87}{87}}
-\headcommand {\slideentry {11}{0}{4}{88/88}{}{2}}
+\headcommand {\sectionentry {6}{How to license intangible property}{46}{How to license intangible property}{2}}
+\headcommand {\beamer@sectionpages {45}{45}}
+\headcommand {\beamer@subsectionpages {45}{45}}
+\headcommand {\slideentry {6}{0}{1}{46/46}{}{2}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {6}{0}{1}{46/47}{}{2}}
+\headcommand {\beamer@framepages {46}{47}}
+\headcommand {\slideentry {6}{0}{2}{48/48}{}{2}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {6}{0}{2}{48/49}{}{2}}
+\headcommand {\beamer@framepages {48}{49}}
+\headcommand {\slideentry {6}{0}{3}{50/50}{}{2}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\slideentry {6}{0}{3}{50/51}{}{2}}
+\headcommand {\beamer@framepages {50}{51}}
+\headcommand {\slideentry {6}{0}{3}{50/52}{}{2}}
+\headcommand {\beamer@framepages {50}{52}}
+\headcommand {\slideentry {6}{0}{3}{50/53}{}{2}}
+\headcommand {\beamer@framepages {50}{53}}
+\headcommand {\slideentry {6}{0}{4}{54/54}{}{2}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\slideentry {6}{0}{4}{54/55}{}{2}}
+\headcommand {\beamer@framepages {54}{55}}
+\headcommand {\slideentry {6}{0}{5}{56/56}{}{2}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\slideentry {6}{0}{5}{56/57}{}{2}}
+\headcommand {\beamer@framepages {56}{57}}
+\headcommand {\slideentry {6}{0}{6}{58/58}{}{2}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\slideentry {6}{0}{6}{58/59}{}{2}}
+\headcommand {\beamer@framepages {58}{59}}
+\headcommand {\slideentry {6}{0}{6}{58/60}{}{2}}
+\headcommand {\beamer@framepages {58}{60}}
+\headcommand {\slideentry {6}{0}{7}{61/61}{}{2}}
+\headcommand {\beamer@framepages {61}{61}}
+\headcommand {\slideentry {6}{0}{7}{61/62}{}{2}}
+\headcommand {\beamer@framepages {61}{62}}
+\headcommand {\sectionentry {7}{How (not) to sell nuclear weapons}{63}{How (not) to sell nuclear weapons}{2}}
+\headcommand {\beamer@sectionpages {46}{62}}
+\headcommand {\beamer@subsectionpages {46}{62}}
+\headcommand {\slideentry {7}{0}{1}{63/63}{}{2}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\slideentry {7}{0}{1}{63/64}{}{2}}
+\headcommand {\beamer@framepages {63}{64}}
+\headcommand {\slideentry {7}{0}{1}{63/65}{}{2}}
+\headcommand {\beamer@framepages {63}{65}}
+\headcommand {\slideentry {7}{0}{1}{63/66}{}{2}}
+\headcommand {\beamer@framepages {63}{66}}
+\headcommand {\slideentry {7}{0}{1}{63/67}{}{2}}
+\headcommand {\beamer@framepages {63}{67}}
+\headcommand {\slideentry {7}{0}{1}{63/68}{}{2}}
+\headcommand {\beamer@framepages {63}{68}}
+\headcommand {\sectionentry {8}{Incentives and discrimination}{69}{Incentives and discrimination}{2}}
+\headcommand {\beamer@sectionpages {63}{68}}
+\headcommand {\beamer@subsectionpages {63}{68}}
+\headcommand {\slideentry {8}{0}{1}{69/69}{}{2}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\slideentry {8}{0}{1}{69/70}{}{2}}
+\headcommand {\beamer@framepages {69}{70}}
+\headcommand {\slideentry {8}{0}{1}{69/71}{}{2}}
+\headcommand {\beamer@framepages {69}{71}}
+\headcommand {\slideentry {8}{0}{1}{69/72}{}{2}}
+\headcommand {\beamer@framepages {69}{72}}
+\headcommand {\slideentry {8}{0}{1}{69/73}{}{2}}
+\headcommand {\beamer@framepages {69}{73}}
+\headcommand {\sectionentry {9}{Takeover bids, the free rider problem, and the theory of the corporation}{74}{Takeover bids, the free rider problem, and the theory of the corporation}{2}}
+\headcommand {\beamer@sectionpages {69}{73}}
+\headcommand {\beamer@subsectionpages {69}{73}}
+\headcommand {\slideentry {9}{0}{1}{74/74}{}{2}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\slideentry {9}{0}{1}{74/75}{}{2}}
+\headcommand {\beamer@framepages {74}{75}}
+\headcommand {\slideentry {9}{0}{1}{74/76}{}{2}}
+\headcommand {\beamer@framepages {74}{76}}
+\headcommand {\slideentry {9}{0}{1}{74/77}{}{2}}
+\headcommand {\beamer@framepages {74}{77}}
+\headcommand {\sectionentry {10}{Technology adoption in the presence of network externalities}{78}{Technology adoption in the presence of network externalities}{2}}
+\headcommand {\beamer@sectionpages {74}{77}}
+\headcommand {\beamer@subsectionpages {74}{77}}
+\headcommand {\slideentry {10}{0}{1}{78/78}{}{2}}
+\headcommand {\beamer@framepages {78}{78}}
+\headcommand {\slideentry {10}{0}{1}{78/79}{}{2}}
+\headcommand {\beamer@framepages {78}{79}}
+\headcommand {\slideentry {10}{0}{1}{78/80}{}{2}}
+\headcommand {\beamer@framepages {78}{80}}
+\headcommand {\slideentry {10}{0}{1}{78/81}{}{2}}
+\headcommand {\beamer@framepages {78}{81}}
+\headcommand {\slideentry {10}{0}{1}{78/82}{}{2}}
+\headcommand {\beamer@framepages {78}{82}}
+\headcommand {\sectionentry {11}{Competition and incentives with nonexclusive contracts}{83}{Competition and incentives with nonexclusive contracts}{2}}
+\headcommand {\beamer@sectionpages {78}{82}}
+\headcommand {\beamer@subsectionpages {78}{82}}
+\headcommand {\slideentry {11}{0}{1}{83/83}{}{2}}
+\headcommand {\beamer@framepages {83}{83}}
+\headcommand {\slideentry {11}{0}{1}{83/84}{}{2}}
+\headcommand {\beamer@framepages {83}{84}}
+\headcommand {\slideentry {11}{0}{2}{85/85}{}{2}}
+\headcommand {\beamer@framepages {85}{85}}
+\headcommand {\slideentry {11}{0}{2}{85/86}{}{2}}
+\headcommand {\beamer@framepages {85}{86}}
+\headcommand {\slideentry {11}{0}{2}{85/87}{}{2}}
+\headcommand {\beamer@framepages {85}{87}}
+\headcommand {\slideentry {11}{0}{3}{88/88}{}{2}}
 \headcommand {\beamer@framepages {88}{88}}
-\headcommand {\slideentry {11}{0}{4}{88/89}{}{2}}
-\headcommand {\beamer@framepages {88}{89}}
-\headcommand {\slideentry {11}{0}{4}{88/90}{}{2}}
-\headcommand {\beamer@framepages {88}{90}}
-\headcommand {\slideentry {11}{0}{4}{88/91}{}{2}}
-\headcommand {\beamer@framepages {88}{91}}
+\headcommand {\slideentry {11}{0}{4}{89/89}{}{2}}
+\headcommand {\beamer@framepages {89}{89}}
+\headcommand {\slideentry {11}{0}{4}{89/90}{}{2}}
+\headcommand {\beamer@framepages {89}{90}}
+\headcommand {\slideentry {11}{0}{4}{89/91}{}{2}}
+\headcommand {\beamer@framepages {89}{91}}
+\headcommand {\slideentry {11}{0}{4}{89/92}{}{2}}
+\headcommand {\beamer@framepages {89}{92}}
 \headcommand {\partentry {Offer game and beliefs}{3}}
-\headcommand {\beamer@partpages {44}{91}}
-\headcommand {\beamer@sectionpages {82}{91}}
-\headcommand {\beamer@subsectionpages {82}{91}}
-\headcommand {\slideentry {11}{0}{5}{92/92}{}{3}}
-\headcommand {\beamer@framepages {92}{92}}
-\headcommand {\sectionentry {12}{Segal and Whinston (2003)}{93}{Segal and Whinston (2003)}{3}}
-\headcommand {\beamer@sectionpages {92}{92}}
-\headcommand {\beamer@subsectionpages {92}{92}}
-\headcommand {\beamer@subsectionentry {3}{12}{1}{93}{Hart and Tirole (1990)}}\headcommand {\beamer@subsectionpages {93}{92}}
-\headcommand {\slideentry {12}{1}{1}{93/93}{Hart and Tirole (1990)}{3}}
+\headcommand {\beamer@partpages {45}{92}}
+\headcommand {\beamer@sectionpages {83}{92}}
+\headcommand {\beamer@subsectionpages {83}{92}}
+\headcommand {\slideentry {11}{0}{5}{93/93}{}{3}}
 \headcommand {\beamer@framepages {93}{93}}
-\headcommand {\slideentry {12}{1}{2}{94/94}{Hart and Tirole (1990)}{3}}
+\headcommand {\sectionentry {12}{Segal and Whinston (2003)}{94}{Segal and Whinston (2003)}{3}}
+\headcommand {\beamer@sectionpages {93}{93}}
+\headcommand {\beamer@subsectionpages {93}{93}}
+\headcommand {\beamer@subsectionentry {3}{12}{1}{94}{Hart and Tirole (1990)}}\headcommand {\beamer@subsectionpages {94}{93}}
+\headcommand {\slideentry {12}{1}{1}{94/94}{Hart and Tirole (1990)}{3}}
 \headcommand {\beamer@framepages {94}{94}}
-\headcommand {\beamer@subsectionentry {3}{12}{2}{95}{Model}}\headcommand {\beamer@subsectionpages {93}{94}}
-\headcommand {\slideentry {12}{2}{1}{95/95}{Model}{3}}
+\headcommand {\slideentry {12}{1}{2}{95/95}{Hart and Tirole (1990)}{3}}
 \headcommand {\beamer@framepages {95}{95}}
-\headcommand {\slideentry {12}{2}{1}{95/96}{Model}{3}}
-\headcommand {\beamer@framepages {95}{96}}
-\headcommand {\slideentry {12}{2}{1}{95/97}{Model}{3}}
-\headcommand {\beamer@framepages {95}{97}}
-\headcommand {\beamer@subsectionentry {3}{12}{3}{98}{Pairwise stability}}\headcommand {\beamer@subsectionpages {95}{97}}
-\headcommand {\slideentry {12}{3}{1}{98/98}{Pairwise stability}{3}}
-\headcommand {\beamer@framepages {98}{98}}
-\headcommand {\slideentry {12}{3}{1}{98/99}{Pairwise stability}{3}}
-\headcommand {\beamer@framepages {98}{99}}
-\headcommand {\slideentry {12}{3}{1}{98/100}{Pairwise stability}{3}}
-\headcommand {\beamer@framepages {98}{100}}
-\headcommand {\slideentry {12}{3}{1}{98/101}{Pairwise stability}{3}}
-\headcommand {\beamer@framepages {98}{101}}
-\headcommand {\slideentry {12}{3}{2}{102/102}{Pairwise stability}{3}}
-\headcommand {\beamer@framepages {102}{102}}
-\headcommand {\slideentry {12}{3}{2}{102/103}{Pairwise stability}{3}}
-\headcommand {\beamer@framepages {102}{103}}
-\headcommand {\beamer@subsectionentry {3}{12}{4}{104}{Competitive outcome and competitive menu}}\headcommand {\beamer@subsectionpages {98}{103}}
-\headcommand {\slideentry {12}{4}{1}{104/104}{Competitive outcome and competitive menu}{3}}
-\headcommand {\beamer@framepages {104}{104}}
-\headcommand {\slideentry {12}{4}{1}{104/105}{Competitive outcome and competitive menu}{3}}
-\headcommand {\beamer@framepages {104}{105}}
-\headcommand {\slideentry {12}{4}{1}{104/106}{Competitive outcome and competitive menu}{3}}
-\headcommand {\beamer@framepages {104}{106}}
-\headcommand {\slideentry {12}{4}{2}{107/107}{Competitive outcome and competitive menu}{3}}
-\headcommand {\beamer@framepages {107}{107}}
-\headcommand {\slideentry {12}{4}{2}{107/108}{Competitive outcome and competitive menu}{3}}
-\headcommand {\beamer@framepages {107}{108}}
-\headcommand {\beamer@subsectionentry {3}{12}{5}{109}{Equilibrium trades}}\headcommand {\beamer@subsectionpages {104}{108}}
-\headcommand {\slideentry {12}{5}{1}{109/109}{Equilibrium trades}{3}}
-\headcommand {\beamer@framepages {109}{109}}
-\headcommand {\slideentry {12}{5}{1}{109/110}{Equilibrium trades}{3}}
-\headcommand {\beamer@framepages {109}{110}}
-\headcommand {\slideentry {12}{5}{1}{109/111}{Equilibrium trades}{3}}
-\headcommand {\beamer@framepages {109}{111}}
-\headcommand {\slideentry {12}{5}{2}{112/112}{Equilibrium trades}{3}}
-\headcommand {\beamer@framepages {112}{112}}
-\headcommand {\partentry {Bidding games and menu auctions}{4}}
-\headcommand {\beamer@partpages {92}{112}}
-\headcommand {\beamer@sectionpages {93}{112}}
-\headcommand {\beamer@subsectionpages {109}{112}}
-\headcommand {\slideentry {12}{0}{3}{113/113}{}{4}}
+\headcommand {\beamer@subsectionentry {3}{12}{2}{96}{Model}}\headcommand {\beamer@subsectionpages {94}{95}}
+\headcommand {\slideentry {12}{2}{1}{96/96}{Model}{3}}
+\headcommand {\beamer@framepages {96}{96}}
+\headcommand {\slideentry {12}{2}{1}{96/97}{Model}{3}}
+\headcommand {\beamer@framepages {96}{97}}
+\headcommand {\slideentry {12}{2}{1}{96/98}{Model}{3}}
+\headcommand {\beamer@framepages {96}{98}}
+\headcommand {\beamer@subsectionentry {3}{12}{3}{99}{Pairwise stability}}\headcommand {\beamer@subsectionpages {96}{98}}
+\headcommand {\slideentry {12}{3}{1}{99/99}{Pairwise stability}{3}}
+\headcommand {\beamer@framepages {99}{99}}
+\headcommand {\slideentry {12}{3}{1}{99/100}{Pairwise stability}{3}}
+\headcommand {\beamer@framepages {99}{100}}
+\headcommand {\slideentry {12}{3}{1}{99/101}{Pairwise stability}{3}}
+\headcommand {\beamer@framepages {99}{101}}
+\headcommand {\slideentry {12}{3}{1}{99/102}{Pairwise stability}{3}}
+\headcommand {\beamer@framepages {99}{102}}
+\headcommand {\slideentry {12}{3}{2}{103/103}{Pairwise stability}{3}}
+\headcommand {\beamer@framepages {103}{103}}
+\headcommand {\slideentry {12}{3}{2}{103/104}{Pairwise stability}{3}}
+\headcommand {\beamer@framepages {103}{104}}
+\headcommand {\beamer@subsectionentry {3}{12}{4}{105}{Competitive outcome and competitive menu}}\headcommand {\beamer@subsectionpages {99}{104}}
+\headcommand {\slideentry {12}{4}{1}{105/105}{Competitive outcome and competitive menu}{3}}
+\headcommand {\beamer@framepages {105}{105}}
+\headcommand {\slideentry {12}{4}{1}{105/106}{Competitive outcome and competitive menu}{3}}
+\headcommand {\beamer@framepages {105}{106}}
+\headcommand {\slideentry {12}{4}{1}{105/107}{Competitive outcome and competitive menu}{3}}
+\headcommand {\beamer@framepages {105}{107}}
+\headcommand {\slideentry {12}{4}{2}{108/108}{Competitive outcome and competitive menu}{3}}
+\headcommand {\beamer@framepages {108}{108}}
+\headcommand {\slideentry {12}{4}{2}{108/109}{Competitive outcome and competitive menu}{3}}
+\headcommand {\beamer@framepages {108}{109}}
+\headcommand {\beamer@subsectionentry {3}{12}{5}{110}{Equilibrium trades}}\headcommand {\beamer@subsectionpages {105}{109}}
+\headcommand {\slideentry {12}{5}{1}{110/110}{Equilibrium trades}{3}}
+\headcommand {\beamer@framepages {110}{110}}
+\headcommand {\slideentry {12}{5}{1}{110/111}{Equilibrium trades}{3}}
+\headcommand {\beamer@framepages {110}{111}}
+\headcommand {\slideentry {12}{5}{1}{110/112}{Equilibrium trades}{3}}
+\headcommand {\beamer@framepages {110}{112}}
+\headcommand {\slideentry {12}{5}{2}{113/113}{Equilibrium trades}{3}}
 \headcommand {\beamer@framepages {113}{113}}
-\headcommand {\sectionentry {13}{Bernheim and Whinston (1986)}{114}{Bernheim and Whinston (1986)}{4}}
-\headcommand {\beamer@sectionpages {113}{113}}
-\headcommand {\beamer@subsectionpages {113}{113}}
-\headcommand {\beamer@subsectionentry {4}{13}{1}{114}{Model}}\headcommand {\beamer@subsectionpages {114}{113}}
-\headcommand {\slideentry {13}{1}{1}{114/114}{Model}{4}}
+\headcommand {\partentry {Bidding games and menu auctions}{4}}
+\headcommand {\beamer@partpages {93}{113}}
+\headcommand {\beamer@sectionpages {94}{113}}
+\headcommand {\beamer@subsectionpages {110}{113}}
+\headcommand {\slideentry {12}{0}{3}{114/114}{}{4}}
 \headcommand {\beamer@framepages {114}{114}}
-\headcommand {\slideentry {13}{1}{1}{114/115}{Model}{4}}
-\headcommand {\beamer@framepages {114}{115}}
-\headcommand {\beamer@subsectionentry {4}{13}{2}{116}{Equilibrium}}\headcommand {\beamer@subsectionpages {114}{115}}
-\headcommand {\slideentry {13}{2}{1}{116/116}{Equilibrium}{4}}
-\headcommand {\beamer@framepages {116}{116}}
-\headcommand {\slideentry {13}{2}{1}{116/117}{Equilibrium}{4}}
-\headcommand {\beamer@framepages {116}{117}}
-\headcommand {\slideentry {13}{2}{1}{116/118}{Equilibrium}{4}}
-\headcommand {\beamer@framepages {116}{118}}
-\headcommand {\slideentry {13}{2}{1}{116/119}{Equilibrium}{4}}
-\headcommand {\beamer@framepages {116}{119}}
-\headcommand {\slideentry {13}{2}{1}{116/120}{Equilibrium}{4}}
-\headcommand {\beamer@framepages {116}{120}}
-\headcommand {\beamer@subsectionentry {4}{13}{3}{121}{Truthful strategies and bidders' payoffs}}\headcommand {\beamer@subsectionpages {116}{120}}
-\headcommand {\slideentry {13}{3}{1}{121/121}{Truthful strategies and bidders' payoffs}{4}}
-\headcommand {\beamer@framepages {121}{121}}
-\headcommand {\slideentry {13}{3}{1}{121/122}{Truthful strategies and bidders' payoffs}{4}}
-\headcommand {\beamer@framepages {121}{122}}
-\headcommand {\slideentry {13}{3}{2}{123/123}{Truthful strategies and bidders' payoffs}{4}}
-\headcommand {\beamer@framepages {123}{123}}
-\headcommand {\slideentry {13}{3}{2}{123/124}{Truthful strategies and bidders' payoffs}{4}}
-\headcommand {\beamer@framepages {123}{124}}
-\headcommand {\slideentry {13}{3}{2}{123/125}{Truthful strategies and bidders' payoffs}{4}}
-\headcommand {\beamer@framepages {123}{125}}
-\headcommand {\slideentry {13}{3}{2}{123/126}{Truthful strategies and bidders' payoffs}{4}}
-\headcommand {\beamer@framepages {123}{126}}
-\headcommand {\beamer@subsectionentry {4}{13}{4}{127}{Application}}\headcommand {\beamer@subsectionpages {121}{126}}
-\headcommand {\slideentry {13}{4}{1}{127/127}{Application}{4}}
-\headcommand {\beamer@framepages {127}{127}}
-\headcommand {\slideentry {13}{4}{1}{127/128}{Application}{4}}
-\headcommand {\beamer@framepages {127}{128}}
-\headcommand {\sectionentry {14}{Martimort and Stole (2003)}{129}{Martimort and Stole (2003)}{4}}
-\headcommand {\beamer@sectionpages {114}{128}}
-\headcommand {\beamer@subsectionpages {127}{128}}
-\headcommand {\beamer@subsectionentry {4}{14}{1}{129}{Common agency}}\headcommand {\beamer@subsectionpages {129}{128}}
-\headcommand {\slideentry {14}{1}{1}{129/129}{Common agency}{4}}
-\headcommand {\beamer@framepages {129}{129}}
-\headcommand {\slideentry {14}{1}{1}{129/130}{Common agency}{4}}
-\headcommand {\beamer@framepages {129}{130}}
-\headcommand {\slideentry {14}{1}{1}{129/131}{Common agency}{4}}
-\headcommand {\beamer@framepages {129}{131}}
-\headcommand {\slideentry {14}{1}{2}{132/132}{Common agency}{4}}
-\headcommand {\beamer@framepages {132}{132}}
-\headcommand {\slideentry {14}{1}{2}{132/133}{Common agency}{4}}
-\headcommand {\beamer@framepages {132}{133}}
-\headcommand {\beamer@subsectionentry {4}{14}{2}{134}{Intrinsic common agency}}\headcommand {\beamer@subsectionpages {129}{133}}
-\headcommand {\slideentry {14}{2}{1}{134/134}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {134}{134}}
-\headcommand {\slideentry {14}{2}{1}{134/135}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {134}{135}}
-\headcommand {\slideentry {14}{2}{2}{136/136}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {136}{136}}
-\headcommand {\slideentry {14}{2}{2}{136/137}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {136}{137}}
-\headcommand {\slideentry {14}{2}{2}{136/138}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {136}{138}}
-\headcommand {\slideentry {14}{2}{2}{136/139}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {136}{139}}
-\headcommand {\slideentry {14}{2}{2}{136/140}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {136}{140}}
-\headcommand {\slideentry {14}{2}{2}{136/141}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {136}{141}}
-\headcommand {\slideentry {14}{2}{2}{136/142}{Intrinsic common agency}{4}}
-\headcommand {\beamer@framepages {136}{142}}
-\headcommand {\beamer@subsectionentry {4}{14}{3}{143}{Delegated common agency}}\headcommand {\beamer@subsectionpages {134}{142}}
-\headcommand {\slideentry {14}{3}{1}{143/143}{Delegated common agency}{4}}
-\headcommand {\beamer@framepages {143}{143}}
-\headcommand {\slideentry {14}{3}{1}{143/144}{Delegated common agency}{4}}
-\headcommand {\beamer@framepages {143}{144}}
-\headcommand {\slideentry {14}{3}{1}{143/145}{Delegated common agency}{4}}
-\headcommand {\beamer@framepages {143}{145}}
-\headcommand {\slideentry {14}{3}{1}{143/146}{Delegated common agency}{4}}
-\headcommand {\beamer@framepages {143}{146}}
-\headcommand {\slideentry {14}{3}{1}{143/147}{Delegated common agency}{4}}
-\headcommand {\beamer@framepages {143}{147}}
-\headcommand {\beamer@subsectionentry {4}{14}{4}{148}{Summary}}\headcommand {\beamer@subsectionpages {143}{147}}
-\headcommand {\slideentry {14}{4}{1}{148/148}{Summary}{4}}
-\headcommand {\beamer@framepages {148}{148}}
-\headcommand {\slideentry {14}{4}{1}{148/149}{Summary}{4}}
-\headcommand {\beamer@framepages {148}{149}}
+\headcommand {\sectionentry {13}{Bernheim and Whinston (1986)}{115}{Bernheim and Whinston (1986)}{4}}
+\headcommand {\beamer@sectionpages {114}{114}}
+\headcommand {\beamer@subsectionpages {114}{114}}
+\headcommand {\beamer@subsectionentry {4}{13}{1}{115}{Model}}\headcommand {\beamer@subsectionpages {115}{114}}
+\headcommand {\slideentry {13}{1}{1}{115/115}{Model}{4}}
+\headcommand {\beamer@framepages {115}{115}}
+\headcommand {\slideentry {13}{1}{1}{115/116}{Model}{4}}
+\headcommand {\beamer@framepages {115}{116}}
+\headcommand {\beamer@subsectionentry {4}{13}{2}{117}{Equilibrium}}\headcommand {\beamer@subsectionpages {115}{116}}
+\headcommand {\slideentry {13}{2}{1}{117/117}{Equilibrium}{4}}
+\headcommand {\beamer@framepages {117}{117}}
+\headcommand {\slideentry {13}{2}{1}{117/118}{Equilibrium}{4}}
+\headcommand {\beamer@framepages {117}{118}}
+\headcommand {\slideentry {13}{2}{1}{117/119}{Equilibrium}{4}}
+\headcommand {\beamer@framepages {117}{119}}
+\headcommand {\slideentry {13}{2}{1}{117/120}{Equilibrium}{4}}
+\headcommand {\beamer@framepages {117}{120}}
+\headcommand {\slideentry {13}{2}{1}{117/121}{Equilibrium}{4}}
+\headcommand {\beamer@framepages {117}{121}}
+\headcommand {\beamer@subsectionentry {4}{13}{3}{122}{Truthful strategies and bidders' payoffs}}\headcommand {\beamer@subsectionpages {117}{121}}
+\headcommand {\slideentry {13}{3}{1}{122/122}{Truthful strategies and bidders' payoffs}{4}}
+\headcommand {\beamer@framepages {122}{122}}
+\headcommand {\slideentry {13}{3}{1}{122/123}{Truthful strategies and bidders' payoffs}{4}}
+\headcommand {\beamer@framepages {122}{123}}
+\headcommand {\slideentry {13}{3}{2}{124/124}{Truthful strategies and bidders' payoffs}{4}}
+\headcommand {\beamer@framepages {124}{124}}
+\headcommand {\slideentry {13}{3}{2}{124/125}{Truthful strategies and bidders' payoffs}{4}}
+\headcommand {\beamer@framepages {124}{125}}
+\headcommand {\slideentry {13}{3}{2}{124/126}{Truthful strategies and bidders' payoffs}{4}}
+\headcommand {\beamer@framepages {124}{126}}
+\headcommand {\slideentry {13}{3}{2}{124/127}{Truthful strategies and bidders' payoffs}{4}}
+\headcommand {\beamer@framepages {124}{127}}
+\headcommand {\beamer@subsectionentry {4}{13}{4}{128}{Application}}\headcommand {\beamer@subsectionpages {122}{127}}
+\headcommand {\slideentry {13}{4}{1}{128/128}{Application}{4}}
+\headcommand {\beamer@framepages {128}{128}}
+\headcommand {\slideentry {13}{4}{1}{128/129}{Application}{4}}
+\headcommand {\beamer@framepages {128}{129}}
+\headcommand {\sectionentry {14}{Martimort and Stole (2003)}{130}{Martimort and Stole (2003)}{4}}
+\headcommand {\beamer@sectionpages {115}{129}}
+\headcommand {\beamer@subsectionpages {128}{129}}
+\headcommand {\beamer@subsectionentry {4}{14}{1}{130}{Common agency}}\headcommand {\beamer@subsectionpages {130}{129}}
+\headcommand {\slideentry {14}{1}{1}{130/130}{Common agency}{4}}
+\headcommand {\beamer@framepages {130}{130}}
+\headcommand {\slideentry {14}{1}{1}{130/131}{Common agency}{4}}
+\headcommand {\beamer@framepages {130}{131}}
+\headcommand {\slideentry {14}{1}{1}{130/132}{Common agency}{4}}
+\headcommand {\beamer@framepages {130}{132}}
+\headcommand {\slideentry {14}{1}{2}{133/133}{Common agency}{4}}
+\headcommand {\beamer@framepages {133}{133}}
+\headcommand {\slideentry {14}{1}{2}{133/134}{Common agency}{4}}
+\headcommand {\beamer@framepages {133}{134}}
+\headcommand {\beamer@subsectionentry {4}{14}{2}{135}{Intrinsic common agency}}\headcommand {\beamer@subsectionpages {130}{134}}
+\headcommand {\slideentry {14}{2}{1}{135/135}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {135}{135}}
+\headcommand {\slideentry {14}{2}{1}{135/136}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {135}{136}}
+\headcommand {\slideentry {14}{2}{2}{137/137}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {137}{137}}
+\headcommand {\slideentry {14}{2}{2}{137/138}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {137}{138}}
+\headcommand {\slideentry {14}{2}{2}{137/139}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {137}{139}}
+\headcommand {\slideentry {14}{2}{2}{137/140}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {137}{140}}
+\headcommand {\slideentry {14}{2}{2}{137/141}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {137}{141}}
+\headcommand {\slideentry {14}{2}{2}{137/142}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {137}{142}}
+\headcommand {\slideentry {14}{2}{2}{137/143}{Intrinsic common agency}{4}}
+\headcommand {\beamer@framepages {137}{143}}
+\headcommand {\beamer@subsectionentry {4}{14}{3}{144}{Delegated common agency}}\headcommand {\beamer@subsectionpages {135}{143}}
+\headcommand {\slideentry {14}{3}{1}{144/144}{Delegated common agency}{4}}
+\headcommand {\beamer@framepages {144}{144}}
+\headcommand {\slideentry {14}{3}{1}{144/145}{Delegated common agency}{4}}
+\headcommand {\beamer@framepages {144}{145}}
+\headcommand {\slideentry {14}{3}{1}{144/146}{Delegated common agency}{4}}
+\headcommand {\beamer@framepages {144}{146}}
+\headcommand {\slideentry {14}{3}{1}{144/147}{Delegated common agency}{4}}
+\headcommand {\beamer@framepages {144}{147}}
+\headcommand {\slideentry {14}{3}{1}{144/148}{Delegated common agency}{4}}
+\headcommand {\beamer@framepages {144}{148}}
+\headcommand {\beamer@subsectionentry {4}{14}{4}{149}{Summary}}\headcommand {\beamer@subsectionpages {144}{148}}
+\headcommand {\slideentry {14}{4}{1}{149/149}{Summary}{4}}
+\headcommand {\beamer@framepages {149}{149}}
+\headcommand {\slideentry {14}{4}{1}{149/150}{Summary}{4}}
+\headcommand {\beamer@framepages {149}{150}}
 \headcommand {\partentry {Excusive dealing}{5}}
-\headcommand {\beamer@partpages {113}{149}}
-\headcommand {\beamer@sectionpages {129}{149}}
-\headcommand {\beamer@subsectionpages {148}{149}}
-\headcommand {\slideentry {14}{0}{2}{150/150}{}{5}}
-\headcommand {\beamer@framepages {150}{150}}
-\headcommand {\sectionentry {15}{Bernheim and Whinston 1998}{151}{Bernheim and Whinston 1998}{5}}
-\headcommand {\beamer@sectionpages {150}{150}}
-\headcommand {\beamer@subsectionpages {150}{150}}
-\headcommand {\beamer@subsectionentry {5}{15}{1}{151}{Introduction}}\headcommand {\beamer@subsectionpages {151}{150}}
-\headcommand {\slideentry {15}{1}{1}{151/151}{Introduction}{5}}
+\headcommand {\beamer@partpages {114}{150}}
+\headcommand {\beamer@sectionpages {130}{150}}
+\headcommand {\beamer@subsectionpages {149}{150}}
+\headcommand {\slideentry {14}{0}{2}{151/151}{}{5}}
 \headcommand {\beamer@framepages {151}{151}}
-\headcommand {\slideentry {15}{1}{1}{151/152}{Introduction}{5}}
-\headcommand {\beamer@framepages {151}{152}}
-\headcommand {\slideentry {15}{1}{2}{153/153}{Introduction}{5}}
-\headcommand {\beamer@framepages {153}{153}}
-\headcommand {\slideentry {15}{1}{2}{153/154}{Introduction}{5}}
-\headcommand {\beamer@framepages {153}{154}}
-\headcommand {\beamer@subsectionentry {5}{15}{2}{155}{Results}}\headcommand {\beamer@subsectionpages {151}{154}}
-\headcommand {\slideentry {15}{2}{1}{155/155}{Results}{5}}
-\headcommand {\beamer@framepages {155}{155}}
-\headcommand {\slideentry {15}{2}{1}{155/156}{Results}{5}}
-\headcommand {\beamer@framepages {155}{156}}
-\headcommand {\slideentry {15}{2}{2}{157/157}{Results}{5}}
-\headcommand {\beamer@framepages {157}{157}}
-\headcommand {\slideentry {15}{2}{2}{157/158}{Results}{5}}
-\headcommand {\beamer@framepages {157}{158}}
-\headcommand {\slideentry {15}{2}{2}{157/159}{Results}{5}}
-\headcommand {\beamer@framepages {157}{159}}
-\headcommand {\slideentry {15}{2}{2}{157/160}{Results}{5}}
-\headcommand {\beamer@framepages {157}{160}}
-\headcommand {\slideentry {15}{2}{3}{161/161}{Results}{5}}
-\headcommand {\beamer@framepages {161}{161}}
-\headcommand {\slideentry {15}{2}{3}{161/162}{Results}{5}}
-\headcommand {\beamer@framepages {161}{162}}
-\headcommand {\slideentry {15}{2}{4}{163/163}{Results}{5}}
-\headcommand {\beamer@framepages {163}{163}}
-\headcommand {\slideentry {15}{2}{5}{164/164}{Results}{5}}
+\headcommand {\sectionentry {15}{Bernheim and Whinston 1998}{152}{Bernheim and Whinston 1998}{5}}
+\headcommand {\beamer@sectionpages {151}{151}}
+\headcommand {\beamer@subsectionpages {151}{151}}
+\headcommand {\beamer@subsectionentry {5}{15}{1}{152}{Introduction}}\headcommand {\beamer@subsectionpages {152}{151}}
+\headcommand {\slideentry {15}{1}{1}{152/152}{Introduction}{5}}
+\headcommand {\beamer@framepages {152}{152}}
+\headcommand {\slideentry {15}{1}{1}{152/153}{Introduction}{5}}
+\headcommand {\beamer@framepages {152}{153}}
+\headcommand {\slideentry {15}{1}{2}{154/154}{Introduction}{5}}
+\headcommand {\beamer@framepages {154}{154}}
+\headcommand {\slideentry {15}{1}{2}{154/155}{Introduction}{5}}
+\headcommand {\beamer@framepages {154}{155}}
+\headcommand {\beamer@subsectionentry {5}{15}{2}{156}{Results}}\headcommand {\beamer@subsectionpages {152}{155}}
+\headcommand {\slideentry {15}{2}{1}{156/156}{Results}{5}}
+\headcommand {\beamer@framepages {156}{156}}
+\headcommand {\slideentry {15}{2}{1}{156/157}{Results}{5}}
+\headcommand {\beamer@framepages {156}{157}}
+\headcommand {\slideentry {15}{2}{2}{158/158}{Results}{5}}
+\headcommand {\beamer@framepages {158}{158}}
+\headcommand {\slideentry {15}{2}{2}{158/159}{Results}{5}}
+\headcommand {\beamer@framepages {158}{159}}
+\headcommand {\slideentry {15}{2}{2}{158/160}{Results}{5}}
+\headcommand {\beamer@framepages {158}{160}}
+\headcommand {\slideentry {15}{2}{2}{158/161}{Results}{5}}
+\headcommand {\beamer@framepages {158}{161}}
+\headcommand {\slideentry {15}{2}{3}{162/162}{Results}{5}}
+\headcommand {\beamer@framepages {162}{162}}
+\headcommand {\slideentry {15}{2}{3}{162/163}{Results}{5}}
+\headcommand {\beamer@framepages {162}{163}}
+\headcommand {\slideentry {15}{2}{4}{164/164}{Results}{5}}
 \headcommand {\beamer@framepages {164}{164}}
-\headcommand {\slideentry {15}{2}{5}{164/165}{Results}{5}}
-\headcommand {\beamer@framepages {164}{165}}
-\headcommand {\slideentry {15}{2}{5}{164/166}{Results}{5}}
-\headcommand {\beamer@framepages {164}{166}}
-\headcommand {\slideentry {15}{2}{5}{164/167}{Results}{5}}
-\headcommand {\beamer@framepages {164}{167}}
-\headcommand {\slideentry {15}{2}{6}{168/168}{Results}{5}}
-\headcommand {\beamer@framepages {168}{168}}
-\headcommand {\slideentry {15}{2}{6}{168/169}{Results}{5}}
-\headcommand {\beamer@framepages {168}{169}}
-\headcommand {\beamer@subsectionentry {5}{15}{3}{170}{Conclusions}}\headcommand {\beamer@subsectionpages {155}{169}}
-\headcommand {\slideentry {15}{3}{1}{170/170}{Conclusions}{5}}
-\headcommand {\beamer@framepages {170}{170}}
-\headcommand {\partentry {Details of the bargaining environment}{6}}
-\headcommand {\beamer@partpages {150}{170}}
-\headcommand {\beamer@sectionpages {151}{170}}
-\headcommand {\beamer@subsectionpages {170}{170}}
-\headcommand {\slideentry {15}{0}{2}{171/171}{}{6}}
+\headcommand {\slideentry {15}{2}{5}{165/165}{Results}{5}}
+\headcommand {\beamer@framepages {165}{165}}
+\headcommand {\slideentry {15}{2}{5}{165/166}{Results}{5}}
+\headcommand {\beamer@framepages {165}{166}}
+\headcommand {\slideentry {15}{2}{5}{165/167}{Results}{5}}
+\headcommand {\beamer@framepages {165}{167}}
+\headcommand {\slideentry {15}{2}{5}{165/168}{Results}{5}}
+\headcommand {\beamer@framepages {165}{168}}
+\headcommand {\slideentry {15}{2}{6}{169/169}{Results}{5}}
+\headcommand {\beamer@framepages {169}{169}}
+\headcommand {\slideentry {15}{2}{6}{169/170}{Results}{5}}
+\headcommand {\beamer@framepages {169}{170}}
+\headcommand {\beamer@subsectionentry {5}{15}{3}{171}{Conclusions}}\headcommand {\beamer@subsectionpages {156}{170}}
+\headcommand {\slideentry {15}{3}{1}{171/171}{Conclusions}{5}}
 \headcommand {\beamer@framepages {171}{171}}
-\headcommand {\sectionentry {16}{Introduction}{172}{Introduction}{6}}
-\headcommand {\beamer@sectionpages {171}{171}}
+\headcommand {\partentry {Details of the bargaining environment}{6}}
+\headcommand {\beamer@partpages {151}{171}}
+\headcommand {\beamer@sectionpages {152}{171}}
 \headcommand {\beamer@subsectionpages {171}{171}}
-\headcommand {\slideentry {16}{0}{1}{172/172}{}{6}}
+\headcommand {\slideentry {15}{0}{2}{172/172}{}{6}}
 \headcommand {\beamer@framepages {172}{172}}
-\headcommand {\slideentry {16}{0}{1}{172/173}{}{6}}
-\headcommand {\beamer@framepages {172}{173}}
-\headcommand {\sectionentry {17}{Segal (1999)}{174}{Segal (1999)}{6}}
-\headcommand {\beamer@sectionpages {172}{173}}
-\headcommand {\beamer@subsectionpages {172}{173}}
-\headcommand {\beamer@subsectionentry {6}{17}{1}{174}{Public offers with discrimination and simple implementation}}\headcommand {\beamer@subsectionpages {174}{173}}
-\headcommand {\slideentry {17}{1}{1}{174/174}{Public offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {174}{174}}
-\headcommand {\slideentry {17}{1}{1}{174/175}{Public offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {174}{175}}
-\headcommand {\slideentry {17}{1}{1}{174/176}{Public offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {174}{176}}
-\headcommand {\slideentry {17}{1}{1}{174/177}{Public offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {174}{177}}
-\headcommand {\slideentry {17}{1}{1}{174/178}{Public offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {174}{178}}
-\headcommand {\slideentry {17}{1}{1}{174/179}{Public offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {174}{179}}
-\headcommand {\slideentry {17}{1}{1}{174/180}{Public offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {174}{180}}
-\headcommand {\beamer@subsectionentry {6}{17}{2}{181}{Private offers with discrimination and simple implementation}}\headcommand {\beamer@subsectionpages {174}{180}}
-\headcommand {\slideentry {17}{2}{1}{181/181}{Private offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {181}{181}}
-\headcommand {\slideentry {17}{2}{1}{181/182}{Private offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {181}{182}}
-\headcommand {\slideentry {17}{2}{1}{181/183}{Private offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {181}{183}}
-\headcommand {\slideentry {17}{2}{1}{181/184}{Private offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {181}{184}}
-\headcommand {\slideentry {17}{2}{2}{185/185}{Private offers with discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {185}{185}}
-\headcommand {\sectionentry {18}{Segal (2003a)}{186}{Segal (2003a)}{6}}
-\headcommand {\beamer@sectionpages {174}{185}}
-\headcommand {\beamer@subsectionpages {181}{185}}
-\headcommand {\beamer@subsectionentry {6}{18}{1}{186}{Introduction and model}}\headcommand {\beamer@subsectionpages {186}{185}}
-\headcommand {\slideentry {18}{1}{1}{186/186}{Introduction and model}{6}}
+\headcommand {\sectionentry {16}{Introduction}{173}{Introduction}{6}}
+\headcommand {\beamer@sectionpages {172}{172}}
+\headcommand {\beamer@subsectionpages {172}{172}}
+\headcommand {\slideentry {16}{0}{1}{173/173}{}{6}}
+\headcommand {\beamer@framepages {173}{173}}
+\headcommand {\slideentry {16}{0}{1}{173/174}{}{6}}
+\headcommand {\beamer@framepages {173}{174}}
+\headcommand {\sectionentry {17}{Segal (1999)}{175}{Segal (1999)}{6}}
+\headcommand {\beamer@sectionpages {173}{174}}
+\headcommand {\beamer@subsectionpages {173}{174}}
+\headcommand {\beamer@subsectionentry {6}{17}{1}{175}{Public offers with discrimination and simple implementation}}\headcommand {\beamer@subsectionpages {175}{174}}
+\headcommand {\slideentry {17}{1}{1}{175/175}{Public offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {175}{175}}
+\headcommand {\slideentry {17}{1}{1}{175/176}{Public offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {175}{176}}
+\headcommand {\slideentry {17}{1}{1}{175/177}{Public offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {175}{177}}
+\headcommand {\slideentry {17}{1}{1}{175/178}{Public offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {175}{178}}
+\headcommand {\slideentry {17}{1}{1}{175/179}{Public offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {175}{179}}
+\headcommand {\slideentry {17}{1}{1}{175/180}{Public offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {175}{180}}
+\headcommand {\slideentry {17}{1}{1}{175/181}{Public offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {175}{181}}
+\headcommand {\beamer@subsectionentry {6}{17}{2}{182}{Private offers with discrimination and simple implementation}}\headcommand {\beamer@subsectionpages {175}{181}}
+\headcommand {\slideentry {17}{2}{1}{182/182}{Private offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {182}{182}}
+\headcommand {\slideentry {17}{2}{1}{182/183}{Private offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {182}{183}}
+\headcommand {\slideentry {17}{2}{1}{182/184}{Private offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {182}{184}}
+\headcommand {\slideentry {17}{2}{1}{182/185}{Private offers with discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {182}{185}}
+\headcommand {\slideentry {17}{2}{2}{186/186}{Private offers with discrimination and simple implementation}{6}}
 \headcommand {\beamer@framepages {186}{186}}
-\headcommand {\slideentry {18}{1}{1}{186/187}{Introduction and model}{6}}
-\headcommand {\beamer@framepages {186}{187}}
-\headcommand {\slideentry {18}{1}{2}{188/188}{Introduction and model}{6}}
-\headcommand {\beamer@framepages {188}{188}}
-\headcommand {\beamer@subsectionentry {6}{18}{2}{189}{Public offers with non-discrimination and simple implementation}}\headcommand {\beamer@subsectionpages {186}{188}}
-\headcommand {\slideentry {18}{2}{1}{189/189}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\sectionentry {18}{Segal (2003a)}{187}{Segal (2003a)}{6}}
+\headcommand {\beamer@sectionpages {175}{186}}
+\headcommand {\beamer@subsectionpages {182}{186}}
+\headcommand {\beamer@subsectionentry {6}{18}{1}{187}{Introduction and model}}\headcommand {\beamer@subsectionpages {187}{186}}
+\headcommand {\slideentry {18}{1}{1}{187/187}{Introduction and model}{6}}
+\headcommand {\beamer@framepages {187}{187}}
+\headcommand {\slideentry {18}{1}{1}{187/188}{Introduction and model}{6}}
+\headcommand {\beamer@framepages {187}{188}}
+\headcommand {\slideentry {18}{1}{2}{189/189}{Introduction and model}{6}}
 \headcommand {\beamer@framepages {189}{189}}
-\headcommand {\slideentry {18}{2}{1}{189/190}{Public offers with non-discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {189}{190}}
-\headcommand {\slideentry {18}{2}{2}{191/191}{Public offers with non-discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {191}{191}}
-\headcommand {\slideentry {18}{2}{2}{191/192}{Public offers with non-discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {191}{192}}
-\headcommand {\slideentry {18}{2}{3}{193/193}{Public offers with non-discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {193}{193}}
-\headcommand {\slideentry {18}{2}{3}{193/194}{Public offers with non-discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {193}{194}}
-\headcommand {\slideentry {18}{2}{3}{193/195}{Public offers with non-discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {193}{195}}
-\headcommand {\slideentry {18}{2}{3}{193/196}{Public offers with non-discrimination and simple implementation}{6}}
-\headcommand {\beamer@framepages {193}{196}}
-\headcommand {\beamer@subsectionentry {6}{18}{3}{197}{Public offers with discrimination and unique implementation}}\headcommand {\beamer@subsectionpages {189}{196}}
-\headcommand {\slideentry {18}{3}{1}{197/197}{Public offers with discrimination and unique implementation}{6}}
-\headcommand {\beamer@framepages {197}{197}}
-\headcommand {\slideentry {18}{3}{1}{197/198}{Public offers with discrimination and unique implementation}{6}}
-\headcommand {\beamer@framepages {197}{198}}
-\headcommand {\slideentry {18}{3}{2}{199/199}{Public offers with discrimination and unique implementation}{6}}
-\headcommand {\beamer@framepages {199}{199}}
-\headcommand {\slideentry {18}{3}{2}{199/200}{Public offers with discrimination and unique implementation}{6}}
-\headcommand {\beamer@framepages {199}{200}}
-\headcommand {\slideentry {18}{3}{2}{199/201}{Public offers with discrimination and unique implementation}{6}}
-\headcommand {\beamer@framepages {199}{201}}
-\headcommand {\slideentry {18}{3}{2}{199/202}{Public offers with discrimination and unique implementation}{6}}
-\headcommand {\beamer@framepages {199}{202}}
-\headcommand {\sectionentry {19}{Conclusion}{203}{Conclusion}{6}}
-\headcommand {\beamer@sectionpages {186}{202}}
-\headcommand {\beamer@subsectionpages {197}{202}}
-\headcommand {\slideentry {19}{0}{1}{203/203}{}{6}}
-\headcommand {\beamer@framepages {203}{203}}
-\headcommand {\slideentry {19}{0}{1}{203/204}{}{6}}
-\headcommand {\beamer@framepages {203}{204}}
+\headcommand {\beamer@subsectionentry {6}{18}{2}{190}{Public offers with non-discrimination and simple implementation}}\headcommand {\beamer@subsectionpages {187}{189}}
+\headcommand {\slideentry {18}{2}{1}{190/190}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {190}{190}}
+\headcommand {\slideentry {18}{2}{1}{190/191}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {190}{191}}
+\headcommand {\slideentry {18}{2}{2}{192/192}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {192}{192}}
+\headcommand {\slideentry {18}{2}{2}{192/193}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {192}{193}}
+\headcommand {\slideentry {18}{2}{3}{194/194}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {194}{194}}
+\headcommand {\slideentry {18}{2}{3}{194/195}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {194}{195}}
+\headcommand {\slideentry {18}{2}{3}{194/196}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {194}{196}}
+\headcommand {\slideentry {18}{2}{3}{194/197}{Public offers with non-discrimination and simple implementation}{6}}
+\headcommand {\beamer@framepages {194}{197}}
+\headcommand {\beamer@subsectionentry {6}{18}{3}{198}{Public offers with discrimination and unique implementation}}\headcommand {\beamer@subsectionpages {190}{197}}
+\headcommand {\slideentry {18}{3}{1}{198/198}{Public offers with discrimination and unique implementation}{6}}
+\headcommand {\beamer@framepages {198}{198}}
+\headcommand {\slideentry {18}{3}{1}{198/199}{Public offers with discrimination and unique implementation}{6}}
+\headcommand {\beamer@framepages {198}{199}}
+\headcommand {\slideentry {18}{3}{2}{200/200}{Public offers with discrimination and unique implementation}{6}}
+\headcommand {\beamer@framepages {200}{200}}
+\headcommand {\slideentry {18}{3}{2}{200/201}{Public offers with discrimination and unique implementation}{6}}
+\headcommand {\beamer@framepages {200}{201}}
+\headcommand {\slideentry {18}{3}{2}{200/202}{Public offers with discrimination and unique implementation}{6}}
+\headcommand {\beamer@framepages {200}{202}}
+\headcommand {\slideentry {18}{3}{2}{200/203}{Public offers with discrimination and unique implementation}{6}}
+\headcommand {\beamer@framepages {200}{203}}
+\headcommand {\sectionentry {19}{Conclusion}{204}{Conclusion}{6}}
+\headcommand {\beamer@sectionpages {187}{203}}
+\headcommand {\beamer@subsectionpages {198}{203}}
+\headcommand {\slideentry {19}{0}{1}{204/204}{}{6}}
+\headcommand {\beamer@framepages {204}{204}}
+\headcommand {\slideentry {19}{0}{1}{204/205}{}{6}}
+\headcommand {\beamer@framepages {204}{205}}
 \headcommand {\partentry {Two (and more) parties on both sides}{7}}
-\headcommand {\beamer@partpages {171}{204}}
-\headcommand {\beamer@sectionpages {203}{204}}
-\headcommand {\beamer@subsectionpages {203}{204}}
-\headcommand {\slideentry {19}{0}{2}{205/205}{}{7}}
-\headcommand {\beamer@framepages {205}{205}}
-\headcommand {\sectionentry {20}{Segal (2003b)}{206}{Segal (2003b)}{7}}
-\headcommand {\beamer@sectionpages {205}{205}}
-\headcommand {\beamer@subsectionpages {205}{205}}
-\headcommand {\slideentry {20}{0}{1}{206/206}{}{7}}
+\headcommand {\beamer@partpages {172}{205}}
+\headcommand {\beamer@sectionpages {204}{205}}
+\headcommand {\beamer@subsectionpages {204}{205}}
+\headcommand {\slideentry {19}{0}{2}{206/206}{}{7}}
 \headcommand {\beamer@framepages {206}{206}}
-\headcommand {\slideentry {20}{0}{1}{206/207}{}{7}}
-\headcommand {\beamer@framepages {206}{207}}
-\headcommand {\beamer@subsectionentry {7}{20}{1}{208}{Model}}\headcommand {\beamer@subsectionpages {206}{207}}
-\headcommand {\slideentry {20}{1}{1}{208/208}{Model}{7}}
-\headcommand {\beamer@framepages {208}{208}}
-\headcommand {\slideentry {20}{1}{1}{208/209}{Model}{7}}
-\headcommand {\beamer@framepages {208}{209}}
-\headcommand {\slideentry {20}{1}{2}{210/210}{Model}{7}}
-\headcommand {\beamer@framepages {210}{210}}
-\headcommand {\slideentry {20}{1}{2}{210/211}{Model}{7}}
-\headcommand {\beamer@framepages {210}{211}}
-\headcommand {\slideentry {20}{1}{3}{212/212}{Model}{7}}
-\headcommand {\beamer@framepages {212}{212}}
-\headcommand {\slideentry {20}{1}{3}{212/213}{Model}{7}}
-\headcommand {\beamer@framepages {212}{213}}
-\headcommand {\slideentry {20}{1}{4}{214/214}{Model}{7}}
-\headcommand {\beamer@framepages {214}{214}}
-\headcommand {\slideentry {20}{1}{4}{214/215}{Model}{7}}
-\headcommand {\beamer@framepages {214}{215}}
-\headcommand {\slideentry {20}{1}{5}{216/216}{Model}{7}}
-\headcommand {\beamer@framepages {216}{216}}
-\headcommand {\slideentry {20}{1}{5}{216/217}{Model}{7}}
-\headcommand {\beamer@framepages {216}{217}}
-\headcommand {\beamer@subsectionentry {7}{20}{2}{218}{Results}}\headcommand {\beamer@subsectionpages {208}{217}}
-\headcommand {\slideentry {20}{2}{1}{218/218}{Results}{7}}
-\headcommand {\beamer@framepages {218}{218}}
-\headcommand {\slideentry {20}{2}{1}{218/219}{Results}{7}}
-\headcommand {\beamer@framepages {218}{219}}
-\headcommand {\slideentry {20}{2}{1}{218/220}{Results}{7}}
-\headcommand {\beamer@framepages {218}{220}}
-\headcommand {\slideentry {20}{2}{2}{221/221}{Results}{7}}
-\headcommand {\beamer@framepages {221}{221}}
-\headcommand {\slideentry {20}{2}{2}{221/222}{Results}{7}}
-\headcommand {\beamer@framepages {221}{222}}
-\headcommand {\slideentry {20}{2}{3}{223/223}{Results}{7}}
-\headcommand {\beamer@framepages {223}{223}}
-\headcommand {\slideentry {20}{2}{3}{223/224}{Results}{7}}
-\headcommand {\beamer@framepages {223}{224}}
-\headcommand {\slideentry {20}{2}{3}{223/225}{Results}{7}}
-\headcommand {\beamer@framepages {223}{225}}
-\headcommand {\slideentry {20}{2}{3}{223/226}{Results}{7}}
-\headcommand {\beamer@framepages {223}{226}}
-\headcommand {\beamer@subsectionentry {7}{20}{3}{227}{Applications}}\headcommand {\beamer@subsectionpages {218}{226}}
-\headcommand {\slideentry {20}{3}{1}{227/227}{Applications}{7}}
-\headcommand {\beamer@framepages {227}{227}}
-\headcommand {\slideentry {20}{3}{1}{227/228}{Applications}{7}}
-\headcommand {\beamer@framepages {227}{228}}
-\headcommand {\slideentry {20}{3}{2}{229/229}{Applications}{7}}
-\headcommand {\beamer@framepages {229}{229}}
-\headcommand {\slideentry {20}{3}{2}{229/230}{Applications}{7}}
-\headcommand {\beamer@framepages {229}{230}}
-\headcommand {\beamer@subsectionentry {7}{20}{4}{231}{Conclusion}}\headcommand {\beamer@subsectionpages {227}{230}}
-\headcommand {\slideentry {20}{4}{1}{231/231}{Conclusion}{7}}
-\headcommand {\beamer@framepages {231}{231}}
-\headcommand {\partentry {Summary}{8}}
-\headcommand {\beamer@partpages {205}{231}}
-\headcommand {\beamer@sectionpages {206}{231}}
-\headcommand {\beamer@subsectionpages {231}{231}}
-\headcommand {\slideentry {20}{0}{2}{232/232}{}{8}}
+\headcommand {\sectionentry {20}{Segal (2003b)}{207}{Segal (2003b)}{7}}
+\headcommand {\beamer@sectionpages {206}{206}}
+\headcommand {\beamer@subsectionpages {206}{206}}
+\headcommand {\slideentry {20}{0}{1}{207/207}{}{7}}
+\headcommand {\beamer@framepages {207}{207}}
+\headcommand {\slideentry {20}{0}{1}{207/208}{}{7}}
+\headcommand {\beamer@framepages {207}{208}}
+\headcommand {\beamer@subsectionentry {7}{20}{1}{209}{Model}}\headcommand {\beamer@subsectionpages {207}{208}}
+\headcommand {\slideentry {20}{1}{1}{209/209}{Model}{7}}
+\headcommand {\beamer@framepages {209}{209}}
+\headcommand {\slideentry {20}{1}{1}{209/210}{Model}{7}}
+\headcommand {\beamer@framepages {209}{210}}
+\headcommand {\slideentry {20}{1}{2}{211/211}{Model}{7}}
+\headcommand {\beamer@framepages {211}{211}}
+\headcommand {\slideentry {20}{1}{2}{211/212}{Model}{7}}
+\headcommand {\beamer@framepages {211}{212}}
+\headcommand {\slideentry {20}{1}{3}{213/213}{Model}{7}}
+\headcommand {\beamer@framepages {213}{213}}
+\headcommand {\slideentry {20}{1}{3}{213/214}{Model}{7}}
+\headcommand {\beamer@framepages {213}{214}}
+\headcommand {\slideentry {20}{1}{4}{215/215}{Model}{7}}
+\headcommand {\beamer@framepages {215}{215}}
+\headcommand {\slideentry {20}{1}{4}{215/216}{Model}{7}}
+\headcommand {\beamer@framepages {215}{216}}
+\headcommand {\slideentry {20}{1}{5}{217/217}{Model}{7}}
+\headcommand {\beamer@framepages {217}{217}}
+\headcommand {\slideentry {20}{1}{5}{217/218}{Model}{7}}
+\headcommand {\beamer@framepages {217}{218}}
+\headcommand {\beamer@subsectionentry {7}{20}{2}{219}{Results}}\headcommand {\beamer@subsectionpages {209}{218}}
+\headcommand {\slideentry {20}{2}{1}{219/219}{Results}{7}}
+\headcommand {\beamer@framepages {219}{219}}
+\headcommand {\slideentry {20}{2}{1}{219/220}{Results}{7}}
+\headcommand {\beamer@framepages {219}{220}}
+\headcommand {\slideentry {20}{2}{1}{219/221}{Results}{7}}
+\headcommand {\beamer@framepages {219}{221}}
+\headcommand {\slideentry {20}{2}{2}{222/222}{Results}{7}}
+\headcommand {\beamer@framepages {222}{222}}
+\headcommand {\slideentry {20}{2}{2}{222/223}{Results}{7}}
+\headcommand {\beamer@framepages {222}{223}}
+\headcommand {\slideentry {20}{2}{3}{224/224}{Results}{7}}
+\headcommand {\beamer@framepages {224}{224}}
+\headcommand {\slideentry {20}{2}{3}{224/225}{Results}{7}}
+\headcommand {\beamer@framepages {224}{225}}
+\headcommand {\slideentry {20}{2}{3}{224/226}{Results}{7}}
+\headcommand {\beamer@framepages {224}{226}}
+\headcommand {\slideentry {20}{2}{3}{224/227}{Results}{7}}
+\headcommand {\beamer@framepages {224}{227}}
+\headcommand {\beamer@subsectionentry {7}{20}{3}{228}{Applications}}\headcommand {\beamer@subsectionpages {219}{227}}
+\headcommand {\slideentry {20}{3}{1}{228/228}{Applications}{7}}
+\headcommand {\beamer@framepages {228}{228}}
+\headcommand {\slideentry {20}{3}{1}{228/229}{Applications}{7}}
+\headcommand {\beamer@framepages {228}{229}}
+\headcommand {\slideentry {20}{3}{2}{230/230}{Applications}{7}}
+\headcommand {\beamer@framepages {230}{230}}
+\headcommand {\slideentry {20}{3}{2}{230/231}{Applications}{7}}
+\headcommand {\beamer@framepages {230}{231}}
+\headcommand {\beamer@subsectionentry {7}{20}{4}{232}{Conclusion}}\headcommand {\beamer@subsectionpages {228}{231}}
+\headcommand {\slideentry {20}{4}{1}{232/232}{Conclusion}{7}}
 \headcommand {\beamer@framepages {232}{232}}
-\headcommand {\sectionentry {21}{What have we learned?}{233}{What have we learned?}{8}}
-\headcommand {\beamer@sectionpages {232}{232}}
+\headcommand {\partentry {Summary}{8}}
+\headcommand {\beamer@partpages {206}{232}}
+\headcommand {\beamer@sectionpages {207}{232}}
 \headcommand {\beamer@subsectionpages {232}{232}}
-\headcommand {\slideentry {21}{0}{1}{233/233}{}{8}}
+\headcommand {\slideentry {20}{0}{2}{233/233}{}{8}}
 \headcommand {\beamer@framepages {233}{233}}
-\headcommand {\slideentry {21}{0}{1}{233/234}{}{8}}
-\headcommand {\beamer@framepages {233}{234}}
-\headcommand {\sectionentry {22}{References}{235}{References}{8}}
-\headcommand {\beamer@sectionpages {233}{234}}
-\headcommand {\beamer@subsectionpages {233}{234}}
-\headcommand {\slideentry {22}{0}{1}{235/235}{}{8}}
-\headcommand {\beamer@framepages {235}{235}}
-\headcommand {\slideentry {22}{0}{1}{235/236}{}{8}}
-\headcommand {\beamer@framepages {235}{236}}
-\headcommand {\slideentry {22}{0}{1}{235/237}{}{8}}
-\headcommand {\beamer@framepages {235}{237}}
-\headcommand {\slideentry {22}{0}{1}{235/238}{}{8}}
-\headcommand {\beamer@framepages {235}{238}}
-\headcommand {\beamer@partpages {232}{238}}
-\headcommand {\beamer@subsectionpages {235}{238}}
-\headcommand {\beamer@sectionpages {235}{238}}
-\headcommand {\beamer@documentpages {238}}
-\headcommand {\def \inserttotalframenumber {238}}
+\headcommand {\sectionentry {21}{What have we learned?}{234}{What have we learned?}{8}}
+\headcommand {\beamer@sectionpages {233}{233}}
+\headcommand {\beamer@subsectionpages {233}{233}}
+\headcommand {\slideentry {21}{0}{1}{234/234}{}{8}}
+\headcommand {\beamer@framepages {234}{234}}
+\headcommand {\slideentry {21}{0}{1}{234/235}{}{8}}
+\headcommand {\beamer@framepages {234}{235}}
+\headcommand {\sectionentry {22}{References}{236}{References}{8}}
+\headcommand {\beamer@sectionpages {234}{235}}
+\headcommand {\beamer@subsectionpages {234}{235}}
+\headcommand {\slideentry {22}{0}{1}{236/236}{}{8}}
+\headcommand {\beamer@framepages {236}{236}}
+\headcommand {\slideentry {22}{0}{1}{236/237}{}{8}}
+\headcommand {\beamer@framepages {236}{237}}
+\headcommand {\slideentry {22}{0}{1}{236/238}{}{8}}
+\headcommand {\beamer@framepages {236}{238}}
+\headcommand {\slideentry {22}{0}{1}{236/239}{}{8}}
+\headcommand {\beamer@framepages {236}{239}}
+\headcommand {\beamer@partpages {233}{239}}
+\headcommand {\beamer@subsectionpages {236}{239}}
+\headcommand {\beamer@sectionpages {236}{239}}
+\headcommand {\beamer@documentpages {239}}
+\headcommand {\def \inserttotalframenumber {239}}

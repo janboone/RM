@@ -1,54 +1,54 @@
 \beamer@endinputifotherversion {3.36pt}
 \select@language {english}
-\beamer@sectionintoc {1}{Efficient bargaining}{11}{1}{1}
-\beamer@sectionintoc {2}{Standard inefficiencies}{12}{1}{2}
-\beamer@sectionintoc {3}{Contracting externalities}{16}{1}{3}
-\beamer@sectionintoc {4}{First examples}{18}{1}{4}
-\beamer@subsectionintoc {4}{1}{Chicago school}{18}{1}{4}
-\beamer@subsectionintoc {4}{2}{Aghion and Bolton (1987)}{23}{1}{4}
-\beamer@subsectionintoc {4}{3}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{25}{1}{4}
-\beamer@subsectionintoc {4}{4}{Hart and Tirole (1990)}{32}{1}{4}
-\beamer@subsectionintoc {4}{5}{Menu auctions}{37}{1}{4}
-\beamer@sectionintoc {5}{Concepts}{42}{1}{5}
-\beamer@sectionintoc {6}{How to license intangible property}{45}{2}{6}
-\beamer@sectionintoc {7}{How (not) to sell nuclear weapons}{62}{2}{7}
-\beamer@sectionintoc {8}{Incentives and discrimination}{68}{2}{8}
-\beamer@sectionintoc {9}{Takeover bids, the free rider problem, and the theory of the corporation}{73}{2}{9}
-\beamer@sectionintoc {10}{Technology adoption in the presence of network externalities}{77}{2}{10}
-\beamer@sectionintoc {11}{Competition and incentives with nonexclusive contracts}{82}{2}{11}
-\beamer@sectionintoc {12}{Segal and Whinston (2003)}{93}{3}{12}
-\beamer@subsectionintoc {12}{1}{Hart and Tirole (1990)}{93}{3}{12}
-\beamer@subsectionintoc {12}{2}{Model}{95}{3}{12}
-\beamer@subsectionintoc {12}{3}{Pairwise stability}{98}{3}{12}
-\beamer@subsectionintoc {12}{4}{Competitive outcome and competitive menu}{104}{3}{12}
-\beamer@subsectionintoc {12}{5}{Equilibrium trades}{109}{3}{12}
-\beamer@sectionintoc {13}{Bernheim and Whinston (1986)}{114}{4}{13}
-\beamer@subsectionintoc {13}{1}{Model}{114}{4}{13}
-\beamer@subsectionintoc {13}{2}{Equilibrium}{116}{4}{13}
-\beamer@subsectionintoc {13}{3}{Truthful strategies and bidders' payoffs}{121}{4}{13}
-\beamer@subsectionintoc {13}{4}{Application}{127}{4}{13}
-\beamer@sectionintoc {14}{Martimort and Stole (2003)}{129}{4}{14}
-\beamer@subsectionintoc {14}{1}{Common agency}{129}{4}{14}
-\beamer@subsectionintoc {14}{2}{Intrinsic common agency}{134}{4}{14}
-\beamer@subsectionintoc {14}{3}{Delegated common agency}{143}{4}{14}
-\beamer@subsectionintoc {14}{4}{Summary}{148}{4}{14}
-\beamer@sectionintoc {15}{Bernheim and Whinston 1998}{151}{5}{15}
-\beamer@subsectionintoc {15}{1}{Introduction}{151}{5}{15}
-\beamer@subsectionintoc {15}{2}{Results}{155}{5}{15}
-\beamer@subsectionintoc {15}{3}{Conclusions}{170}{5}{15}
-\beamer@sectionintoc {16}{Introduction}{172}{6}{16}
-\beamer@sectionintoc {17}{Segal (1999)}{174}{6}{17}
-\beamer@subsectionintoc {17}{1}{Public offers with discrimination and simple implementation}{174}{6}{17}
-\beamer@subsectionintoc {17}{2}{Private offers with discrimination and simple implementation}{181}{6}{17}
-\beamer@sectionintoc {18}{Segal (2003a)}{186}{6}{18}
-\beamer@subsectionintoc {18}{1}{Introduction and model}{186}{6}{18}
-\beamer@subsectionintoc {18}{2}{Public offers with non-discrimination and simple implementation}{189}{6}{18}
-\beamer@subsectionintoc {18}{3}{Public offers with discrimination and unique implementation}{197}{6}{18}
-\beamer@sectionintoc {19}{Conclusion}{203}{6}{19}
-\beamer@sectionintoc {20}{Segal (2003b)}{206}{7}{20}
-\beamer@subsectionintoc {20}{1}{Model}{208}{7}{20}
-\beamer@subsectionintoc {20}{2}{Results}{218}{7}{20}
-\beamer@subsectionintoc {20}{3}{Applications}{227}{7}{20}
-\beamer@subsectionintoc {20}{4}{Conclusion}{231}{7}{20}
-\beamer@sectionintoc {21}{What have we learned?}{233}{8}{21}
-\beamer@sectionintoc {22}{References}{235}{8}{22}
+\beamer@sectionintoc {1}{Efficient bargaining}{12}{1}{1}
+\beamer@sectionintoc {2}{Standard inefficiencies}{13}{1}{2}
+\beamer@sectionintoc {3}{Contracting externalities}{17}{1}{3}
+\beamer@sectionintoc {4}{First examples}{19}{1}{4}
+\beamer@subsectionintoc {4}{1}{Chicago school}{19}{1}{4}
+\beamer@subsectionintoc {4}{2}{Aghion and Bolton (1987)}{24}{1}{4}
+\beamer@subsectionintoc {4}{3}{Rasmusen, Ramseyer and Wiley (1991), Segal and Whinston (2000)}{26}{1}{4}
+\beamer@subsectionintoc {4}{4}{Hart and Tirole (1990)}{33}{1}{4}
+\beamer@subsectionintoc {4}{5}{Menu auctions}{38}{1}{4}
+\beamer@sectionintoc {5}{Concepts}{43}{1}{5}
+\beamer@sectionintoc {6}{How to license intangible property}{46}{2}{6}
+\beamer@sectionintoc {7}{How (not) to sell nuclear weapons}{63}{2}{7}
+\beamer@sectionintoc {8}{Incentives and discrimination}{69}{2}{8}
+\beamer@sectionintoc {9}{Takeover bids, the free rider problem, and the theory of the corporation}{74}{2}{9}
+\beamer@sectionintoc {10}{Technology adoption in the presence of network externalities}{78}{2}{10}
+\beamer@sectionintoc {11}{Competition and incentives with nonexclusive contracts}{83}{2}{11}
+\beamer@sectionintoc {12}{Segal and Whinston (2003)}{94}{3}{12}
+\beamer@subsectionintoc {12}{1}{Hart and Tirole (1990)}{94}{3}{12}
+\beamer@subsectionintoc {12}{2}{Model}{96}{3}{12}
+\beamer@subsectionintoc {12}{3}{Pairwise stability}{99}{3}{12}
+\beamer@subsectionintoc {12}{4}{Competitive outcome and competitive menu}{105}{3}{12}
+\beamer@subsectionintoc {12}{5}{Equilibrium trades}{110}{3}{12}
+\beamer@sectionintoc {13}{Bernheim and Whinston (1986)}{115}{4}{13}
+\beamer@subsectionintoc {13}{1}{Model}{115}{4}{13}
+\beamer@subsectionintoc {13}{2}{Equilibrium}{117}{4}{13}
+\beamer@subsectionintoc {13}{3}{Truthful strategies and bidders' payoffs}{122}{4}{13}
+\beamer@subsectionintoc {13}{4}{Application}{128}{4}{13}
+\beamer@sectionintoc {14}{Martimort and Stole (2003)}{130}{4}{14}
+\beamer@subsectionintoc {14}{1}{Common agency}{130}{4}{14}
+\beamer@subsectionintoc {14}{2}{Intrinsic common agency}{135}{4}{14}
+\beamer@subsectionintoc {14}{3}{Delegated common agency}{144}{4}{14}
+\beamer@subsectionintoc {14}{4}{Summary}{149}{4}{14}
+\beamer@sectionintoc {15}{Bernheim and Whinston 1998}{152}{5}{15}
+\beamer@subsectionintoc {15}{1}{Introduction}{152}{5}{15}
+\beamer@subsectionintoc {15}{2}{Results}{156}{5}{15}
+\beamer@subsectionintoc {15}{3}{Conclusions}{171}{5}{15}
+\beamer@sectionintoc {16}{Introduction}{173}{6}{16}
+\beamer@sectionintoc {17}{Segal (1999)}{175}{6}{17}
+\beamer@subsectionintoc {17}{1}{Public offers with discrimination and simple implementation}{175}{6}{17}
+\beamer@subsectionintoc {17}{2}{Private offers with discrimination and simple implementation}{182}{6}{17}
+\beamer@sectionintoc {18}{Segal (2003a)}{187}{6}{18}
+\beamer@subsectionintoc {18}{1}{Introduction and model}{187}{6}{18}
+\beamer@subsectionintoc {18}{2}{Public offers with non-discrimination and simple implementation}{190}{6}{18}
+\beamer@subsectionintoc {18}{3}{Public offers with discrimination and unique implementation}{198}{6}{18}
+\beamer@sectionintoc {19}{Conclusion}{204}{6}{19}
+\beamer@sectionintoc {20}{Segal (2003b)}{207}{7}{20}
+\beamer@subsectionintoc {20}{1}{Model}{209}{7}{20}
+\beamer@subsectionintoc {20}{2}{Results}{219}{7}{20}
+\beamer@subsectionintoc {20}{3}{Applications}{228}{7}{20}
+\beamer@subsectionintoc {20}{4}{Conclusion}{232}{7}{20}
+\beamer@sectionintoc {21}{What have we learned?}{234}{8}{21}
+\beamer@sectionintoc {22}{References}{236}{8}{22}
